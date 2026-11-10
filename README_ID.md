@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 # Zpaq Archive Android
 
 Aplikasi Android minimalis untuk membuat dan mengekstrak arsip **ZPAQ (.zpaq)** menggunakan source engine ZPAQ 7.15 dari arsip `zpaq715.zip` yang disediakan.

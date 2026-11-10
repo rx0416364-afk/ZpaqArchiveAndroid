@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 // zpaq.cpp - Journaling incremental deduplicating archiver
 
 #define ZPAQ_VERSION "7.15"

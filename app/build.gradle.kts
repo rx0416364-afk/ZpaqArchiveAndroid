@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")

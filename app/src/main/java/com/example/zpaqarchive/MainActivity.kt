@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 package com.example.zpaqarchive
 
 import android.content.ContentResolver

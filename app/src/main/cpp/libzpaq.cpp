@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 /* libzpaq.cpp - LIBZPAQ Version 7.15 implementation - Aug. 17, 2016.
 
   libdivsufsort.c for divsufsort 2.00, included within, is

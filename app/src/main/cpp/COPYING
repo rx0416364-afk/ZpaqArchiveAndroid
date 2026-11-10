@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 The following applies to the files zpaq.cpp, libzpaq.h, libzpaq.cpp,
 zpaq.pod, Makefile, and readme, and any files derived thereof,
 except for the portion of libzpaq.cpp identified as divsufsort.c

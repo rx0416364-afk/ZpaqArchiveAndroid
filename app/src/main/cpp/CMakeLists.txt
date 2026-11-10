@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 cmake_minimum_required(VERSION 3.22.1)
 project(zpaqengine LANGUAGES CXX)
 

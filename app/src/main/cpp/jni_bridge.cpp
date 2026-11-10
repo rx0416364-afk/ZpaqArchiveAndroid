@@ -1,4 +1,3 @@
-Warning: ff was declared with const; use let for reassignable variables.
 #include <jni.h>
 #include <string>
 #include <vector>
