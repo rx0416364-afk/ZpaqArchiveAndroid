@@ -19,4 +19,4 @@ target_compile_options(zpaqengine PRIVATE -O3 -fexceptions -frtti -Wno-unused-pa
 find_library(log-lib log)
 target_link_libraries(zpaqengine PRIVATE ${log-lib})
 
-target_compile_definitions(zpaqengine PRIVATE _LARGEFILE_SOURCE=1)
+target_compile_definitions(zpaqengine PRIVATE _LARGEFILE64_SOURCE=1 fseeko=fseeko64 ftello=ftello64)
