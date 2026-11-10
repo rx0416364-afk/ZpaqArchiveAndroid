@@ -2,6 +2,8 @@ MIT License
 
 Copyright (c) 2026 rx0416364-afk
 
+This license applies to the original Android application and integration code in this repository, except where a file or component includes a separate license notice. In particular, the upstream ZPAQ engine files and the divsufsort-lite section have separate notices in app/src/main/cpp/COPYING.
+
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
