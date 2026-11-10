@@ -1,6 +1,6 @@
 # Zpaq Archive Android
 
-Aplikasi Android minimalis untuk membuat dan mengekstrak arsip **ZPAQ (.zpaq)** menggunakan source engine ZPAQ 7.15 dari arsip `zpaq715.zip` yang disediakan.
+Aplikasi Android minimalis untuk membuat dan mengekstrak arsip **ZPAQ (.zpaq)** menggunakan engine ZPAQ 7.15.
 
 ## Fitur
 
@@ -46,4 +46,4 @@ APK debug dibuat di `app/build/outputs/apk/debug/app-debug.apk`.
 
 ## Sumber dan lisensi
 
-`zpaq.cpp`, `libzpaq.cpp`, `libzpaq.h`, dan `COPYING` disertakan dari `zpaq715.zip` (ZPAQ 7.15, Matt Mahoney). Pemberitahuan lisensi upstream disertakan di `app/src/main/cpp/COPYING` dan header source. Kode Android pada proyek ini merupakan lapisan antarmuka dan integrasi JNI.
+Engine ZPAQ 7.15 karya Matt Mahoney berada di direktori `app/src/main/cpp/`. Berkas `zpaq.cpp`, `libzpaq.cpp`, `libzpaq.h`, dan `COPYING` memuat engine serta pemberitahuan lisensinya. Kode Android pada proyek ini merupakan lapisan antarmuka dan integrasi JNI.
