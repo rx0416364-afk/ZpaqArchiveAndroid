@@ -1,7 +1,82 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëYÚ[œÈÂˆY
-˜ÛÛK˜[™›ÚY˜\XØ][ÛˆŠBˆY
-›Ü™Ëš™]œ˜Z[œËšÛİ[‹˜[™›ÚYŠBˆY
-›Ü™Ëš™]œ˜Z[œËšÛİ[‹œYÚ[‹˜ÛÛ\ÜÙHŠBŸB‚˜[™›ÚYÂˆ˜[Y\ÜXÙHH˜ÛÛK™^[\Kœ\X\˜Ú]™H‚ˆÛÛ\[TÙÈHÍB‚ˆY˜][ÛÛ™šYÈÂˆ\XØ][Û’YH˜ÛÛK™^[\Kœ\X\˜Ú]™H‚ˆZ[”ÙÈHŒÂˆ\™Ù]ÙÈHÍBˆ™\œÚ[ÛÛÙHHBˆ™\œÚ[Û“˜[YHHŒKŒŒ‚‚ˆ™ÈÂˆXšQš[\œÈ
-ÏH\İÙŠ˜\›M]H‹˜\›YXXšK]ØH‹—ÍŠBˆB‚ˆ^\›˜[˜]]™PZ[ÂˆÛXZÙHÂˆÜ›YÜÈ
-ÏH\İÙŠ‹\İXÊÊÌM‹‹SÌÈ‹‹Y™^Ù\[ÛœÈ‹‹YœHŠBˆBˆBˆB‚ˆZ[\\ÈÂˆ™[X\ÙHÂˆ\ÓZ[šYQ[˜X›YH˜[ÙBˆ›ÙİX\™š[\ÊˆÙ]Y˜][›ÙİX\™š[Jœ›ÙİX\™X[™›ÚY[Ü[Z^™KŠKˆœ›ÙİX\™\[\Ëœ›È‚ˆ
-BˆBˆB‚ˆÛÛ\[SÜ[ÛœÈÂˆÛİ\˜ÙPÛÛ\]Xš[]HH˜]˜U™\œÚ[Û‹•‘T”ÒSÓ—ÌMÂˆ\™Ù]ÛÛ\]Xš[]HH˜]˜U™\œÚ[Û‹•‘T”ÒSÓ—ÌMÂˆB‚ˆÛİ[“Ü[ÛœÈÂˆ›U\™Ù]HŒMÈ‚ˆB‚ˆZ[™X]\™\ÈÂˆÛÛ\ÜÙHHYBˆB‚ˆ^\›˜[˜]]™PZ[ÂˆÛXZÙHÂˆ]Hš[JœÜ˜ËÛXZ[‹ØÜĞÓXZÙS\İËŠBˆ™\œÚ[ÛˆHŒËŒŒ‹ŒH‚ˆBˆB‚ˆXÚØYÚ[™ÈÂˆ›šSXœÈÂˆ\ÙSYØXŞTXÚØYÚ[™ÈH˜[ÙBˆBˆBŸB‚™\[™[˜ÚY\ÈÂˆ˜[ÛÛ\ÜÙP›ÛHH]›Ü›J˜[™›ÚY˜ÛÛ\ÜÙN˜ÛÛ\ÜÙKX›ÛNŒŒŒL‹ŒHŠBˆ[\[Y[][ÛŠÛÛ\ÜÙP›ÛJBˆ[™›ÚY\İ[\[Y[][ÛŠÛÛ\ÜÙP›ÛJB‚ˆ[\[Y[][ÛŠ˜[™›ÚY˜ÛÜ™N˜ÛÜ™KZİŒKŒMKŒŠBˆ[\[Y[][ÛŠ˜[™›ÚY˜Xİ]š]N˜Xİ]š]KXÛÛ\ÜÙNŒKŒLŒŠBˆ[\[Y[][ÛŠ˜[™›ÚY˜ÛÛ\ÜÙKZNZHŠBˆ[\[Y[][ÛŠ˜[™›ÚY˜ÛÛ\ÜÙKZNZK]ÛÛ[™Ë\™]šY]ÈŠBˆ[\[Y[][ÛŠ˜[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Î›X]\šX[ÈŠBˆ[\[Y[][ÛŠ˜[™›ÚY˜ÛÛ\ÜÙK›X]\šX[›X]\šX[ZXÛÛœËY^[™YŠBˆ[\[Y[][ÛŠ˜[™›ÚY™Øİ[Y[š[N™Øİ[Y[š[NŒKŒŒHŠBˆ[\[Y[][ÛŠ›Ü™Ëš™]œ˜Z[œËšÛİ[šÛİ[XÛÜ›İ][™\ËX[™›ÚYŒKKŒŠB‚ˆXYÒ[\[Y[][ÛŠ˜[™›ÚY˜ÛÛ\ÜÙKZNZK]ÛÛ[™ÈŠBŸB
+Warning: ff was declared with const; use let for reassignable variables.
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("org.jetbrains.kotlin.plugin.compose")
+}
+
+android {
+    namespace = "com.example.zpaqarchive"
+    compileSdk = 35
+
+    defaultConfig {
+        applicationId = "com.example.zpaqarchive"
+        minSdk = 23
+        targetSdk = 35
+        versionCode = 1
+        versionName = "1.0.0"
+
+        ndk {
+            abiFilters += listOf("arm64-v8a", "armeabi-v7a", "x86_64")
+        }
+
+        externalNativeBuild {
+            cmake {
+                cppFlags += listOf("-std=c++14", "-O3", "-fexceptions", "-frtti")
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            isMinifyEnabled = false
+            proguardFiles(
+                getDefaultProguardFile("proguard-android-optimize.txt"),
+                "proguard-rules.pro"
+            )
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
+
+    buildFeatures {
+        compose = true
+    }
+
+    externalNativeBuild {
+        cmake {
+            path = file("src/main/cpp/CMakeLists.txt")
+            version = "3.22.1"
+        }
+    }
+
+    packaging {
+        jniLibs {
+            useLegacyPackaging = false
+        }
+    }
+}
+
+dependencies {
+    val composeBom = platform("androidx.compose:compose-bom:2024.12.01")
+    implementation(composeBom)
+    androidTestImplementation(composeBom)
+
+    implementation("androidx.core:core-ktx:1.15.0")
+    implementation("androidx.activity:activity-compose:1.10.0")
+    implementation("androidx.compose.ui:ui")
+    implementation("androidx.compose.ui:ui-tooling-preview")
+    implementation("androidx.compose.material3:material3")
+    implementation("androidx.compose.material:material-icons-extended")
+    implementation("androidx.documentfile:documentfile:1.0.1")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.9.0")
+
+    debugImplementation("androidx.compose.ui:ui-tooling")
+}

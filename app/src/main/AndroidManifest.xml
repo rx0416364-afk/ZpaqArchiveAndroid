@@ -1,1 +1,18 @@
-YªçŠx³±×œ•ªÞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºÞjË"‚v›•ëÚ®&›•ëÞ[™\œÚ[ÛHŒKŒˆ[˜ÛÙ[™ÏH]‹NÏ‚X[šY™\Ý[œÎ˜[™›ÚYHš‹ËÜØÚ[X\Ë˜[™›ÚY˜ÛÛKØ\ËÜ™\ËØ[™›ÚY‚ˆ\XØ][Û‚ˆ[™›ÚY˜[ÝÐ˜XÚÝ\H™˜[ÙH‚ˆ[™›ÚY›X™[H–œ\H\˜Ú]™H‚ˆ[™›ÚYœÝ\ÜÔHYH‚ˆ[™›ÚY[YOH[™›ÚYœÝ[KÕ[YK“X]\šX[“YÚ“›ÐXÝ[Û˜\ˆ‚ˆXÝ]š]Bˆ[™›ÚY›˜[YOH‹“XZ[XÝ]š]H‚ˆ[™›ÚY™^ÜYHYH‚ˆ[[Yš[\‚ˆXÝ[Ûˆ[™›ÚY›˜[YOH˜[™›ÚYš[[˜XÝ[Û‹“PRSˆˆÏ‚ˆØ]YÛÜžH[™›ÚY›˜[YOH˜[™›ÚYš[[˜Ø]YÛÜžK“USÒTˆˆÏ‚ˆÚ[[Yš[\‚ˆØXÝ]š]O‚ˆØ\XØ][Û‚ÛX[šY™\Ý‚
+Warning: ff was declared with const; use let for reassignable variables.
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:allowBackup="false"
+        android:label="Zpaq Archive"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.Material.Light.NoActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

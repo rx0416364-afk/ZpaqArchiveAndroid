@@ -1,1 +1,2 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëÈ›Èİ\İÛHÚš[šÚ[™È[\È\™H™\]Z\™Y›ÜˆHš\œİ™[X\ÙK‚
+Warning: ff was declared with const; use let for reassignable variables.
+# No custom shrinking rules are required for the first release.

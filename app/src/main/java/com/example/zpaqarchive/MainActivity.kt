@@ -1,464 +1,712 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëXÚØYÙHÛÛK™^[\Kœ\X\˜Ú]™B‚š[\Ü[™›ÚY˜ÛÛ[ÛÛ[™\ÛÛ™\‚š[\Ü[™›ÚY˜ÛÛ[ÛÛ^š[\Ü[™›ÚY›™]•\šBš[\Ü[™›ÚY›ÜË[™Bš[\Ü[™›ÚYœ›İšY\‹“Ü[˜X›PÛÛ[[œÂš[\Ü[™›ÚY˜Xİ]š]KÛÛ\Û™[Xİ]š]Bš[\Ü[™›ÚY˜Xİ]š]K˜ÛÛ\ÜÙKœ™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[š[\Ü[™›ÚY˜Xİ]š]K˜ÛÛ\ÜÙKœÙ]ÛÛ[š[\Ü[™›ÚY˜Xİ]š]Kœ™\İ[˜ÛÛ˜XİXİ]š]T™\İ[ÛÛ˜XİÂš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›Ü™\”İ›ÚÙBš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹˜˜XÚÙÜ›İ[™š[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹˜ÛXÚØX›Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]\œ˜[™Ù[Y[š[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]›Şš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]ÛÛ[[‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]”›İÂš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]”ÜXÙ\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]™š[X^Ú^™Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]™š[X^ÚYš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]šZYÚš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]œY[™Âš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]œÚ^™Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]ÚYš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^K“^PÛÛ[[‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^Kš][\Âš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹œÚ\KÚ\˜ÛTÚ\Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹œÚ\K”›İ[™YÛÜ›™\”Ú\Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË’XÛÛœÂš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y\˜Ú]™Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[YÚXÚĞÚ\˜ÛBš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[YÚ]œ›Û”šYÚš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y‘›Û\“Ü[‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y’[™[ÜL‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y“ØÚÂš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y”™Yœ™\Úš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[šXÛÛœË™š[Y•[˜\˜Ú]™Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë]Û‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë]Û‘Y˜][Âš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[ËØ\™š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[ËØ\™Y˜][Âš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[ËÚ\˜İ[\”›ÙÜ™\ÜÒ[™XØ]Ü‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë‘]šY\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë‘^\š[Y[[X]\šX[Ğ\Bš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë’XÛÛ‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë“X]\šX[[YBš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë“İ][™Y]Û‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë“İ][™Y^šY[š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë”ØØY™›Ûš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë”ÛY\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë”İ\™˜XÙBš[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë•^š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë•Ü\˜\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë•Ü\˜\‘Y˜][Âš[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YKÛÛ\ÜØX›Bš[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YK“][˜ÚYY™™Xİš[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YK™Ù]˜[YBš[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YK›]]X›Tİ]SÙ‚š[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YKœ™[Y[X™\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YKœ™[Y[X™\ÛÜ›İ][™TØÛÜBš[\Ü[™›ÚY˜ÛÛ\ÜÙKœ[[YKœÙ]˜[YBš[\Ü[™›ÚY˜ÛÛ\ÜÙKZK[YÛ›Y[š[\Ü[™›ÚY˜ÛÛ\ÜÙKZK“[ÙYšY\‚š[\Ü[™›ÚY˜ÛÛ\ÜÙKZK™Ü˜\XÜËÛÛÜ‚š[\Ü[™›ÚY˜ÛÛ\ÜÙKZK^™›Û‘›ÛÙZYÚš[\Ü[™›ÚY˜ÛÛ\ÜÙKZK^œİ[K•^İ™\™›İÂš[\Ü[™›ÚY˜ÛÛ\ÜÙKZK[š]™š[\Ü[™›ÚY˜ÛÛ\ÜÙKZK[š]œÜš[\Ü[™›ÚY™Øİ[Y[š[Kœ›İšY\‹‘Øİ[Y[š[Bš[\ÜÛİ[˜ÛÜ›İ][™\Ë‘\Ü]Ú\œÂš[\ÜÛİ[˜ÛÜ›İ][™\Ë›][˜Úš[\ÜÛİ[˜ÛÜ›İ][™\ËÚ]ÛÛ^š[\Ü˜]˜Kš[Ë‘š[Bš[\Ü˜]˜Kš[Ë’SÑ^Ù\[Û‚š[\Ü˜]˜K][“ØØ[B‚˜Û\ÜÈXZ[Xİ]š]HˆÛÛ\Û™[Xİ]š]J
-HÂˆİ™\œšYH[ˆÛÜ™X]JØ]™Y[œİ[˜ÙTİ]Nˆ[™OÊHÂˆİ\\‹›ÛÜ™X]JØ]™Y[œİ[˜ÙTİ]JBˆÙ]ÛÛ[Èœ\P\˜Ú]™P\
+Warning: ff was declared with const; use let for reassignable variables.
+package com.example.zpaqarchive
 
-HBˆBŸB‚œš]˜]H[[HÛ\ÜÈØÜ™Y[“[ÙHÈÓÓT‘TÔËVPÕB‚œš]˜]HØš™Xİ\ÛÛÜœÈÂˆ˜[Ø[˜\ÈHÛÛÜŠ‘‘Q‘
-Bˆ˜[Ø\™HÛÛÜŠ‘‘‘‘‘‘‘ŠBˆ˜[[šÈHÛÛÜŠ‘ŒNŒLQŠBˆ˜[]]YHÛÛÜŠ‘ÎÑJBˆ˜[XØÙ[HÛÛÜŠ‘ŒMÍPŠBˆ˜[XØÙ[ÛÙHÛÛÜŠ‘‘M‘ŒQQ
-Bˆ˜[›Ü™\ˆHÛÛÜŠ‘‘MQNQMŠBˆ˜[Ø\›š[™ÈHÛÛÜŠ‘PŒMŠBˆ˜[Ø\›š[™ÔÛÙHÛÛÜŠ‘‘‘‘JBŸB‚œš]˜]H]HÛ\ÜÈÜ\˜][Û”™\İ[
-˜[İXØÙ\ÜÎˆ›ÛÛX[‹˜[Y\ÜØYÙNˆİš[™Ë˜[]Z[ˆİš[™ÈHˆŠB‚Ü[Š^\š[Y[[X]\šX[Ğ\N˜Û\ÜÊBÛÛ\ÜØX›Bœš]˜]H[ˆœ\P\˜Ú]™P\
+import android.content.ContentResolver
+import android.content.Context
+import android.net.Uri
+import android.os.Bundle
+import android.provider.OpenableColumns
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.rememberLauncherForActivityResult
+import androidx.activity.compose.setContent
+import androidx.activity.result.contract.ActivityResultContracts
+import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.background
+import androidx.compose.foundation.clickable
+import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.fillMaxWidth
+import androidx.compose.foundation.layout.height
+import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
+import androidx.compose.foundation.shape.CircleShape
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.Archive
+import androidx.compose.material.icons.filled.CheckCircle
+import androidx.compose.material.icons.filled.ChevronRight
+import androidx.compose.material.icons.filled.FolderOpen
+import androidx.compose.material.icons.filled.Inventory2
+import androidx.compose.material.icons.filled.Lock
+import androidx.compose.material.icons.filled.Refresh
+import androidx.compose.material.icons.filled.Unarchive
+import androidx.compose.material3.Button
+import androidx.compose.material3.ButtonDefaults
+import androidx.compose.material3.Card
+import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.CircularProgressIndicator
+import androidx.compose.material3.Divider
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.Icon
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedButton
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Slider
+import androidx.compose.material3.Surface
+import androidx.compose.material3.Text
+import androidx.compose.material3.TopAppBar
+import androidx.compose.material3.TopAppBarDefaults
+import androidx.compose.runtime.Composable
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.text.font.FontWeight
+import androidx.compose.ui.text.style.TextOverflow
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
+import androidx.documentfile.provider.DocumentFile
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
+import kotlinx.coroutines.withContext
+import java.io.File
+import java.io.IOException
+import java.util.Locale
 
-HÂˆ˜[ÛÛ^H[™›ÚY˜ÛÛ\ÜÙKZKœ]›Ü›K“ØØ[ÛÛ^˜İ\œ™[ˆ˜[ØÛÜHH™[Y[X™\ÛÜ›İ][™TØÛÜJ
-B‚ˆ˜\ˆ[ÙHH™[Y[X™\ˆÈ]]X›Tİ]SÙŠØÜ™Y[“[ÙKÓÓT‘TÔÊHBˆ˜\ˆÙ[XİYš[\ÈH™[Y[X™\ˆÈ]]X›Tİ]SÙ\İ\šOŠ[\S\İ
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContent { ZpaqArchiveApp() }
+    }
+}
 
-JHBˆ˜\ˆ›Û\•ĞÛÛ\™\ÜÈH™[Y[X™\ˆÈ]]X›Tİ]SÙ\šOÏŠ[
-HBˆ˜\ˆ\˜Ú]™U\šHH™[Y[X™\ˆÈ]]X›Tİ]SÙ\šOÏŠ[
-HBˆ˜\ˆ\İ[˜][Û•™YHH™[Y[X™\ˆÈ]]X›Tİ]SÙ\šOÏŠ[
-HBˆ˜\ˆ\˜Ú]™S˜[YHH™[Y[X™\ˆÈ]]X›Tİ]SÙŠ\œÚ\˜\Kœ\HŠHBˆ˜\ˆÛÛ\™\ÜÚ[Û“]™[H™[Y[X™\ˆÈ]]X›Tİ]SÙŠYŠHBˆ˜\ˆ\ŞHH™[Y[X™\ˆÈ]]X›Tİ]SÙŠ˜[ÙJHBˆ˜\ˆİ]\ÈH™[Y[X™\ˆÈ]]X›Tİ]SÙŠ”[Zš[H[ZÈ][ZHY[XX]\œÚ\ˆŠHBˆ˜\ˆ\İ™\İ[H™[Y[X™\ˆÈ]]X›Tİ]SÙÜ\˜][Û”™\İ[ÏŠ[
-HB‚ˆ˜[š[\ÔXÚÙ\ˆH™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[
-Xİ]š]T™\İ[ÛÛ˜XİË“Ü[“][\QØİ[Y[Ê
-JHÈ\š\ÈO‚ˆÙ[XİYš[\ÈH\š\Âˆ\š\Ë™›Ü‘XXÚÈ[Ø]Ú[™ÈÈÛÛ^˜ÛÛ[™\ÛÛ™\‹ZÙT\œÚ\İX›U\šT\›Z\ÜÚ[ÛŠ][™›ÚY˜ÛÛ[’[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓŠHHBˆYˆ
-\š\Ëš\Ó›İ[\J
-JHÂˆİ]\ÈH‰İ\š\ËœÚ^™_Hš[H\[Zˆ[ZØ[ˆ˜[XH\œÚ\[HX]\œÚ\ˆ‚ˆ\İ™\İ[H[ˆBˆB‚ˆ˜[ÛÛ\™\ÜÑ›Û\”XÚÙ\ˆH™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[
-Xİ]š]T™\İ[ÛÛ˜XİË“Ü[‘Øİ[Y[™YJ
-JHÈ\šHO‚ˆYˆ
-\šHOH[
-HÂˆ›Û\•ĞÛÛ\™\ÜÈH\šBˆ[Ø]Ú[™ÈÂˆÛÛ^˜ÛÛ[™\ÛÛ™\‹ZÙT\œÚ\İX›U\šT\›Z\ÜÚ[ÛŠ\šK[™›ÚY˜ÛÛ[’[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓŠBˆBˆİ]\ÈH‘›Û\ˆ\[Zˆš[H[ˆ›Û\ˆ\]ZÛÛ\™\È™\œØ[XKˆ‚ˆ\İ™\İ[H[ˆBˆB‚ˆ˜[Ü™X]P\˜Ú]™TXÚÙ\ˆH™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[
-ˆXİ]š]T™\İ[ÛÛ˜XİËÜ™X]QØİ[Y[
-˜\XØ][Û‹ÛØİ]\İ™X[HŠBˆ
-HÈİ]]\šHO‚ˆYˆ
-İ]]\šHOH[	‰ˆ
-Ù[XİYš[\Ëš\Ó›İ[\J
-H›Û\•ĞÛÛ\™\ÜÈOH[
-JHÂˆØÛÜK›][˜ÚÂˆ\ŞHHYBˆ\İ™\İ[H[ˆİ]\ÈH“Y[ZX\Ø[ˆš[H[ˆY[™ÛÛ\™\È[™Ø[ˆ”Tx )ˆ‚ˆ˜[™\İ[HÚ]ÛÛ^
-\Ü]Ú\œË’SÊHÂˆÜ™X]P\˜Ú]™JÛÛ^Ù[XİYš[\Ë›Û\•ĞÛÛ\™\ÜËİ]]\šKÛÛ\™\ÜÚ[Û“]™[Ò[
+private enum class ScreenMode { COMPRESS, EXTRACT }
 
-JBˆBˆ\İ™\İ[H™\İ[ˆİ]\ÈH™\İ[›Y\ÜØYÙBˆ\ŞHH˜[ÙBˆBˆBˆB‚ˆ˜[\˜Ú]™TXÚÙ\ˆH™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[
-Xİ]š]T™\İ[ÛÛ˜XİË“Ü[‘Øİ[Y[
+private object AppColors {
+    val canvas = Color(0xFFF5F6F4)
+    val card = Color(0xFFFFFFFF)
+    val ink = Color(0xFF18211F)
+    val muted = Color(0xFF78827E)
+    val accent = Color(0xFF176B5B)
+    val accentSoft = Color(0xFFE6F1ED)
+    val border = Color(0xFFE5E9E6)
+    val warning = Color(0xFF8B5B16)
+    val warningSoft = Color(0xFFFFF4DE)
+}
 
-JHÈ\šHO‚ˆYˆ
-\šHOH[
-HÂˆ\˜Ú]™U\šHH\šBˆ[Ø]Ú[™ÈÈÛÛ^˜ÛÛ[™\ÛÛ™\‹ZÙT\œÚ\İX›U\šT\›Z\ÜÚ[ÛŠ\šK[™›ÚY˜ÛÛ[’[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓŠHBˆİ]\ÈH\œÚ\\[Zˆ[Z›Û\ˆZX[ˆ[ZÈY[™ÙZÜİ˜ZËˆ‚ˆ\İ™\İ[H[ˆBˆB‚ˆ˜[›Û\”XÚÙ\ˆH™[Y[X™\“][˜Ú\‘›ÜXİ]š]T™\İ[
-Xİ]š]T™\İ[ÛÛ˜XİË“Ü[‘Øİ[Y[™YJ
-JHÈ\šHO‚ˆYˆ
-\šHOH[
-HÂˆ\İ[˜][Û•™YHH\šBˆ[Ø]Ú[™ÈÂˆÛÛ^˜ÛÛ[™\ÛÛ™\‹ZÙT\œÚ\İX›U\šT\›Z\ÜÚ[ÛŠˆ\šKˆ[™›ÚY˜ÛÛ[’[[‘“Q×ÑÔS•Ô‘PQÕT’WÔT“RTÔÒSÓˆÜˆ[™›ÚY˜ÛÛ[’[[‘“Q×ÑÔS•ÕÔ’UWÕT’WÔT“RTÔÒSÓ‚ˆ
-BˆBˆİ]\ÈH‘›Û\ˆZX[ˆÚX\ˆZØ[ˆÛX›ÛZÜİ˜ZÈ\œÚ\ˆ‚ˆ\İ™\İ[H[ˆBˆB‚ˆX]\šX[[YJˆÛÛÜ”ØÚ[YHH[™›ÚY˜ÛÛ\ÜÙK›X]\šX[Ë›YÚÛÛÜ”ØÚ[YJˆš[X\HH\ÛÛÜœË˜XØÙ[ˆÛ”š[X\HHÛÛÜ‹•Ú]Kˆ˜XÚÙÜ›İ[™H\ÛÛÜœË˜Ø[˜\Ëˆİ\™˜XÙHH\ÛÛÜœË˜Ø\™ˆÛ”İ\™˜XÙHH\ÛÛÜœËš[šËˆÛ˜XÚÙÜ›İ[™H\ÛÛÜœËš[šÂˆ
-Bˆ
-HÂˆØØY™›Û
-ˆÛÛZ[™\ÛÛÜˆH\ÛÛÜœË˜Ø[˜\ËˆÜ˜\ˆHÂˆÜ\˜\Šˆ]HHÂˆ›İÊ™\XØ[[YÛ›Y[H[YÛ›Y[Ù[\•™\XØ[JHÂˆ›Ş
-ˆ[ÙYšY\ˆH[ÙYšY\‚ˆœÚ^™JÍ‹™
-Bˆ˜˜XÚÙÜ›İ[™
-\ÛÛÜœË˜XØÙ[ÛÙ›İ[™YÛÜ›™\”Ú\JL‹™
-JKˆÛÛ[[YÛ›Y[H[YÛ›Y[Ù[\‚ˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][\˜Ú]™KÛÛ[\ØÜš\[ÛˆH[[H\ÛÛÜœË˜XØÙ[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JŒ™
-JBˆBˆÜXÙ\Š[ÙYšY\‹ÚY
-L™
-JBˆÛÛ[[ˆÂˆ^
-–œ\H\˜Ú]™H‹›ÛÙZYÚH›ÛÙZYÚ›Û›ÛÚ^™HHNœÜÛÛÜˆH\ÛÛÜœËš[šÊBˆ^
-”[™Ù[ÛH\œÚ\ÙY\š[˜H‹›ÛÚ^™HHLKœÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆBˆBˆKˆÛÛÜœÈHÜ\˜\‘Y˜][ËÜ\˜\ÛÛÜœÊÛÛZ[™\ÛÛÜˆH\ÛÛÜœË˜Ø[˜\ÊBˆ
-BˆBˆ
-HÈ[›™\”Y[™ÈO‚ˆ^PÛÛ[[Šˆ[ÙYšY\ˆH[ÙYšY\‚ˆ™š[X^Ú^™J
-BˆœY[™Ê[›™\”Y[™ÊKˆÛÛ[Y[™ÈH[™›ÚY˜ÛÛ\ÜÙK™›İ[™][Û‹›^[İ]”Y[™Õ˜[Y\Êİ\HN™[™HN™ÜHL™›İÛHH™
-Kˆ™\XØ[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[œÜXÙYJM™
-Bˆ
-HÂˆ][HÂˆÛÛ[[ˆÂˆ^
-\œÚ\Ø[ˆš[K—“XšZš[™ÚØ\Ëˆ‹›ÛÚ^™HHKœÜ[™RZYÚHÍœÜ›ÛÙZYÚH›ÛÙZYÚ›ÛÛÛÜˆH\ÛÛÜœËš[šÊBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-Ë™
-JBˆ^
-ˆ’ÛÛ\™\È[ˆZÜİ˜ZÈš[HY[™Ùİ[˜ZØ[ˆ›Ü›X]”TH[™Üİ[™ÈH\˜[™ÚØ]ˆ‹ˆÛÛÜˆH\ÛÛÜœË›]]Yˆ›ÛÚ^™HHLËœÜˆ[™RZYÚHNKœÜˆ
-BˆBˆB‚ˆ][HÂˆ›İÊˆ[ÙYšY\ˆH[ÙYšY\‚ˆ™š[X^ÚY
+private data class OperationResult(val success: Boolean, val message: String, val detail: String = "")
 
-Bˆ˜˜XÚÙÜ›İ[™
-ÛÛÜŠ‘‘NQQPJK›İ[™YÛÜ›™\”Ú\JM‹™
-JBˆœY[™Ê™
-KˆÜš^›Û[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[œÜXÙYJ™
-Bˆ
-HÂˆ[ÙUXŠˆ]HHX]\œÚ\‹ˆXÛÛˆHXÛÛœË‘Y˜][’[™[ÜL‹ˆÙ[XİYH[ÙHOHØÜ™Y[“[ÙKÓÓT‘TÔËˆ[ÙYšY\ˆH[ÙYšY\‹ÙZYÚ
-YŠBˆ
-HÈ[ÙHHØÜ™Y[“[ÙKÓÓT‘TÔÎÈ\İ™\İ[H[Bˆ[ÙUXŠˆ]HH‘ZÜİ˜ZÈ‹ˆXÛÛˆHXÛÛœË‘Y˜][•[˜\˜Ú]™KˆÙ[XİYH[ÙHOHØÜ™Y[“[ÙK‘VPÕˆ[ÙYšY\ˆH[ÙYšY\‹ÙZYÚ
-YŠBˆ
-HÈ[ÙHHØÜ™Y[“[ÙK‘VPÕÈ\İ™\İ[H[BˆBˆB‚ˆYˆ
-[ÙHOHØÜ™Y[“[ÙKÓÓT‘TÔÊHÂˆ][HÂˆÙXİ[ÛØ\™ÂˆÙXİ[Û’XY[™Ê‘š[HX[™ÈZØ[ˆZÛÛ\™\È‹”[ZØ]H]]H™X™\˜\Hš[H\šH[Z[\[˜[‹ˆŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-L‹™
-JBˆ›İÊÜš^›Û[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[œÜXÙYJ™
-K[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+@OptIn(ExperimentalMaterial3Api::class)
+@Composable
+private fun ZpaqArchiveApp() {
+    val context = androidx.compose.ui.platform.LocalContext.current
+    val scope = rememberCoroutineScope()
 
-JHÂˆİ][™Y]ÛŠˆÛÛXÚÈHÈš[\ÔXÚÙ\‹›][˜Ú
-\œ˜^SÙŠŠ‹ÊˆŠJHKˆ[ÙYšY\ˆH[ÙYšY\‹ÙZYÚ
-YŠKˆÚ\HH›İ[™YÛÜ›™\”Ú\JLË™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™\ÛÛÜœË˜›Ü™\ŠBˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][‘›Û\“Ü[‹ÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-Ë™
-JBˆ^
-Yˆ
-Ù[XİYš[\Ëš\Ñ[\J
-JH”[Zš[Hˆ[ÙH•X˜Zš[HŠBˆBˆİ][™Y]ÛŠˆÛÛXÚÈHÈÛÛ\™\ÜÑ›Û\”XÚÙ\‹›][˜Ú
-[
-HKˆ[ÙYšY\ˆH[ÙYšY\‹ÙZYÚ
-YŠKˆÚ\HH›İ[™YÛÜ›™\”Ú\JLË™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™\ÛÛÜœË˜›Ü™\ŠBˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][’[™[ÜL‹ÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-Ë™
-JBˆ^
-Yˆ
-›Û\•ĞÛÛ\™\ÜÈOH[
-H”[Z›Û\ˆˆ[ÙH•X˜Z›Û\ˆŠBˆBˆBˆYˆ
-Ù[XİYš[\Ëš\Ó›İ[\J
-H›Û\•ĞÛÛ\™\ÜÈOH[
-HÂˆÜXÙ\Š[ÙYšY\‹šZYÚ
-L™
-JBˆYˆ
-Ù[XİYš[\Ëš\Ó›İ[\J
-JHÂˆ^
-‰ÜÙ[XİYš[\ËœÚ^™_Hš[H\[Z‹ÛÛÜˆH\ÛÛÜœË˜XØÙ[›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û›ÛÚ^™HHL‹œÜ
-BˆÜXÙ\Š[ÙYšY\‹šZYÚ
-K™
-JBˆÙ[XİYš[\ËZÙJ
-K™›Ü‘XXÚÈ\šHO‚ˆ^
-¸ (ˆ	Ù\Ü^S˜[YJÛÛ^˜ÛÛ[™\ÛÛ™\‹\šJ_H‹ÛÛÜˆH\ÛÛÜœË›]]Y›ÛÚ^™HHL‹œÜX^[™\ÈHKİ™\™›İÈH^İ™\™›İË‘[\Ú\ÊBˆBˆYˆ
-Ù[XİYš[\ËœÚ^™Hˆ
-H^
-™[ˆ	ÜÙ[XİYš[\ËœÚ^™HHHš[HZ[›XH‹ÛÛÜˆH\ÛÛÜœË›]]Y›ÛÚ^™HHL‹œÜ
-BˆBˆ›Û\•ĞÛÛ\™\ÜÏË›]È›Û\•\šHO‚ˆÜXÙ\Š[ÙYšY\‹šZYÚ
-K™
-JBˆ^
-‘›Û\ˆ	Ù\Ü^S˜[YJÛÛ^˜ÛÛ[™\ÛÛ™\‹›Û\•\šJ_H‹ÛÛÜˆH\ÛÛÜœË˜XØÙ[›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û›ÛÚ^™HHL‹œÜX^[™\ÈHKİ™\™›İÈH^İ™\™›İË‘[\Ú\ÊBˆBˆBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M‹™
-JBˆ]šY\ŠÛÛÜˆH\ÛÛÜœË˜›Ü™\ŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M™
-JBˆÙXİ[Û’XY[™Ê“˜[XH\œÚ\‹\œÚ\ZØ[ˆ\Ú[\[ˆ[™Ø[ˆZÜİ[œÚHœ\KˆŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-™
-JBˆİ][™Y^šY[
-ˆ˜[YHH\˜Ú]™S˜[YKˆÛ•˜[YPÚ[™ÙHHÈ\˜Ú]™S˜[YHH]Kˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+    var mode by remember { mutableStateOf(ScreenMode.COMPRESS) }
+    var selectedFiles by remember { mutableStateOf<List<Uri>>(emptyList()) }
+    var folderToCompress by remember { mutableStateOf<Uri?>(null) }
+    var archiveUri by remember { mutableStateOf<Uri?>(null) }
+    var destinationTree by remember { mutableStateOf<Uri?>(null) }
+    var archiveName by remember { mutableStateOf("ArsipBaru.zpaq") }
+    var compressionLevel by remember { mutableStateOf(1f) }
+    var busy by remember { mutableStateOf(false) }
+    var status by remember { mutableStateOf("Pilih file untuk mulai membuat arsip.") }
+    var lastResult by remember { mutableStateOf<OperationResult?>(null) }
 
-KˆÚ[™ÛS[™HHYKˆÚ\HH›İ[™YÛÜ›™\”Ú\JLË™
-KˆXÙZÛ\ˆHÈ^
-˜ÛÛÚˆÚİ[Y[‹œ\HŠHBˆ
-BˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M‹™
-JBˆÙXİ[Û’XY[™Ê•[™ÚØ]ÛÛ\™\ÚH‹”Ù[XZÚ[ˆ[™ÙÚK[][[XHÙ[XZÚ[ˆÙXÚ[]\HXšZ[X˜]ˆŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-L‹™
-JBˆ›İÊ™\XØ[[YÛ›Y[H[YÛ›Y[Ù[\•™\XØ[JHÂˆ^
-‰ØÛÛ\™\ÜÚ[Û“]™[Ò[
+    val filesPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenMultipleDocuments()) { uris ->
+        selectedFiles = uris
+        uris.forEach { runCatching { context.contentResolver.takePersistableUriPermission(it, android.content.Intent.FLAG_GRANT_READ_URI_PERMISSION) } }
+        if (uris.isNotEmpty()) {
+            status = "${uris.size} file dipilih. Tentukan nama arsip, lalu buat arsip."
+            lastResult = null
+        }
+    }
 
-_H‹›ÛÚ^™HH‹œÜ›ÛÙZYÚH›ÛÙZYÚ›ÛÛÛÜˆH\ÛÛÜœË˜XØÙ[
-BˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆÛÛ[[Š[ÙYšY\‹ÙZYÚ
-YŠJHÂˆÛY\Š˜[YHHÛÛ\™\ÜÚ[Û“]™[Û•˜[YPÚ[™ÙHHÈÛÛ\™\ÜÚ[Û“]™[H]K˜[YT˜[™ÙHH‹‹Y‹İ\ÈH
-Bˆ›İÊ[ÙYšY\‹™š[X^ÚY
+    val compressFolderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
+        if (uri != null) {
+            folderToCompress = uri
+            runCatching {
+                context.contentResolver.takePersistableUriPermission(uri, android.content.Intent.FLAG_GRANT_READ_URI_PERMISSION)
+            }
+            status = "Folder dipilih. File dan folder dapat dikompres bersama."
+            lastResult = null
+        }
+    }
 
-KÜš^›Û[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[”ÜXÙP™]ÙY[ŠHÂˆ^
-Ù\]‹›ÛÚ^™HHLœÜÛÛÜˆH\ÛÛÜœË›]]Y
-Bˆ^
-“XZÜÚ[X[‹›ÛÚ^™HHLœÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆBˆBˆBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-™
-JBˆ^
-]™[\ØÜš\[ÛŠÛÛ\™\ÜÚ[Û“]™[Ò[
+    val createArchivePicker = rememberLauncherForActivityResult(
+        ActivityResultContracts.CreateDocument("application/octet-stream")
+    ) { outputUri ->
+        if (outputUri != null && (selectedFiles.isNotEmpty() || folderToCompress != null)) {
+            scope.launch {
+                busy = true
+                lastResult = null
+                status = "Menyiapkan file dan mengompres dengan ZPAQâ€¦"
+                val result = withContext(Dispatchers.IO) {
+                    createArchive(context, selectedFiles, folderToCompress, outputUri, compressionLevel.toInt())
+                }
+                lastResult = result
+                status = result.message
+                busy = false
+            }
+        }
+    }
 
-JKÛÛÜˆH\ÛÛÜœË›]]Y›ÛÚ^™HHLKœÜ
-BˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M‹™
-JBˆ]ÛŠˆÛÛXÚÈHÂˆYˆ
-Ù[XİYš[\Ëš\Ñ[\J
-H	‰ˆ›Û\•ĞÛÛ\™\ÜÈOH[
-HÂˆİ]\ÈH”[ZZ[š[X[Ø]Hš[H]]HØ]H›Û\ˆ\›XšZZ[Kˆ‚ˆH[ÙHÂˆ˜[ÛX[“˜[YHH\˜Ú]™S˜[YKš[J
-KšY›[šÈÈ\œÚ\˜\Kœ\HˆBˆ˜[š[˜[˜[YHHYˆ
-ÛX[“˜[YK›İÙ\˜Ø\ÙJØØ[K”“ÓÕ
-K™[™ÕÚ]
-‹œ\HŠJHÛX[“˜[YH[ÙH‰ÛX[“˜[YKœ\H‚ˆÜ™X]P\˜Ú]™TXÚÙ\‹›][˜Ú
-š[˜[˜[YJBˆBˆKˆ[˜X›YHX\ŞKˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+    val archivePicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocument()) { uri ->
+        if (uri != null) {
+            archiveUri = uri
+            runCatching { context.contentResolver.takePersistableUriPermission(uri, android.content.Intent.FLAG_GRANT_READ_URI_PERMISSION) }
+            status = "Arsip dipilih. Pilih folder tujuan untuk mengekstrak."
+            lastResult = null
+        }
+    }
 
-KšZYÚ
-LK™
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JM™
-Bˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][\˜Ú]™KÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ^
-X]\œÚ\œ\H‹›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û
-BˆÜXÙ\Š[ÙYšY\‹ÚY
-K™
-JBˆXÛÛŠXÛÛœË‘Y˜][Ú]œ›Û”šYÚÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆBˆBˆBˆH[ÙHÂˆ][HÂˆÙXİ[ÛØ\™ÂˆÙXİ[Û’XY[™Ê\œÚ\İ[X™\ˆ‹”[Zš[H\œÚ\”TH
-œ\JHX[™È[™Ú[ˆXZØKˆŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-L‹™
-JBˆİ][™Y]ÛŠˆÛÛXÚÈHÈ\˜Ú]™TXÚÙ\‹›][˜Ú
-\œ˜^SÙŠŠ‹ÊˆŠJHKˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+    val folderPicker = rememberLauncherForActivityResult(ActivityResultContracts.OpenDocumentTree()) { uri ->
+        if (uri != null) {
+            destinationTree = uri
+            runCatching {
+                context.contentResolver.takePersistableUriPermission(
+                    uri,
+                    android.content.Intent.FLAG_GRANT_READ_URI_PERMISSION or android.content.Intent.FLAG_GRANT_WRITE_URI_PERMISSION
+                )
+            }
+            status = "Folder tujuan siap. Tekan tombol Ekstrak arsip."
+            lastResult = null
+        }
+    }
 
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JLË™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™\ÛÛÜœË˜›Ü™\ŠBˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][‘›Û\“Ü[‹ÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ^
-Yˆ
-\˜Ú]™U\šHOH[
-H”[Zš[Hœ\Hˆ[ÙH‘Ø[H\œÚ\ŠBˆBˆ\˜Ú]™U\šOË›]ÂˆÜXÙ\Š[ÙYšY\‹šZYÚ
-K™
-JBˆ^
-\Ü^S˜[YJÛÛ^˜ÛÛ[™\ÛÛ™\‹]
-KÛÛÜˆH\ÛÛÜœË˜XØÙ[›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û›ÛÚ^™HHL‹œÜX^[™\ÈH‹İ™\™›İÈH^İ™\™›İË‘[\Ú\ÊBˆBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-MË™
-JBˆ]šY\ŠÛÛÜˆH\ÛÛÜœË˜›Ü™\ŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M™
-JBˆÙXİ[Û’XY[™Ê‘›Û\ˆZX[ˆ‹‘š[H\Ú[ZÜİ˜ZÈZØ[ˆ\Ø[[ˆÙH›Û\ˆX[™ÈØ[]H[ZˆŠBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-L‹™
-JBˆİ][™Y]ÛŠˆÛÛXÚÈHÈ›Û\”XÚÙ\‹›][˜Ú
-[
-HKˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+    MaterialTheme(
+        colorScheme = androidx.compose.material3.lightColorScheme(
+            primary = AppColors.accent,
+            onPrimary = Color.White,
+            background = AppColors.canvas,
+            surface = AppColors.card,
+            onSurface = AppColors.ink,
+            onBackground = AppColors.ink
+        )
+    ) {
+        Scaffold(
+            containerColor = AppColors.canvas,
+            topBar = {
+                TopAppBar(
+                    title = {
+                        Row(verticalAlignment = Alignment.CenterVertically) {
+                            Box(
+                                modifier = Modifier
+                                    .size(36.dp)
+                                    .background(AppColors.accentSoft, RoundedCornerShape(12.dp)),
+                                contentAlignment = Alignment.Center
+                            ) {
+                                Icon(Icons.Default.Archive, contentDescription = null, tint = AppColors.accent, modifier = Modifier.size(20.dp))
+                            }
+                            Spacer(Modifier.width(10.dp))
+                            Column {
+                                Text("Zpaq Archive", fontWeight = FontWeight.Bold, fontSize = 18.sp, color = AppColors.ink)
+                                Text("Pengelola arsip sederhana", fontSize = 11.sp, color = AppColors.muted)
+                            }
+                        }
+                    },
+                    colors = TopAppBarDefaults.topAppBarColors(containerColor = AppColors.canvas)
+                )
+            }
+        ) { innerPadding ->
+            LazyColumn(
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(innerPadding),
+                contentPadding = androidx.compose.foundation.layout.PaddingValues(start = 18.dp, end = 18.dp, top = 10.dp, bottom = 28.dp),
+                verticalArrangement = Arrangement.spacedBy(14.dp)
+            ) {
+                item {
+                    Column {
+                        Text("Arsipkan file.\nLebih ringkas.", fontSize = 29.sp, lineHeight = 34.sp, fontWeight = FontWeight.Bold, color = AppColors.ink)
+                        Spacer(Modifier.height(7.dp))
+                        Text(
+                            "Kompres dan ekstrak file menggunakan format ZPAQ langsung di perangkat.",
+                            color = AppColors.muted,
+                            fontSize = 13.sp,
+                            lineHeight = 19.sp
+                        )
+                    }
+                }
 
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JLË™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™\ÛÛÜœË˜›Ü™\ŠBˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][‘›Û\“Ü[‹ÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ^
-Yˆ
-\İ[˜][Û•™YHOH[
-H”[Z›Û\ˆZX[ˆˆ[ÙH‘Ø[H›Û\ˆZX[ˆŠBˆBˆYˆ
-\İ[˜][Û•™YHOH[
-HÂˆÜXÙ\Š[ÙYšY\‹šZYÚ
-™
-JBˆ^
-‘›Û\ˆZX[ˆİYZ\[Z‹ÛÛÜˆH\ÛÛÜœË˜XØÙ[›ÛÚ^™HHL‹œÜ›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û
-BˆBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-M‹™
-JBˆ]ÛŠˆÛÛXÚÈHÂˆ˜[HH\˜Ú]™U\šBˆ˜[H\İ[˜][Û•™YBˆYˆ
-HOH[OH[
-HÂˆİ]\ÈH”[Z\œÚ\[ˆ›Û\ˆZX[ˆ\›XšZZ[Kˆ‚ˆH[ÙHÂˆØÛÜK›][˜ÚÂˆ\ŞHHYBˆ\İ™\İ[H[ˆİ]\ÈH“Y[™ÙZÜİ˜ZÈ\œÚ\”Tx )ˆ‚ˆ˜[™\İ[HÚ]ÛÛ^
-\Ü]Ú\œË’SÊHÈ^˜Xİ\˜Ú]™JÛÛ^K
-HBˆ\İ™\İ[H™\İ[ˆİ]\ÈH™\İ[›Y\ÜØYÙBˆ\ŞHH˜[ÙBˆBˆBˆKˆ[˜X›YHX\ŞKˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+                item {
+                    Row(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .background(Color(0xFFE9EDEA), RoundedCornerShape(16.dp))
+                            .padding(4.dp),
+                        horizontalArrangement = Arrangement.spacedBy(4.dp)
+                    ) {
+                        ModeTab(
+                            title = "Buat arsip",
+                            icon = Icons.Default.Inventory2,
+                            selected = mode == ScreenMode.COMPRESS,
+                            modifier = Modifier.weight(1f)
+                        ) { mode = ScreenMode.COMPRESS; lastResult = null }
+                        ModeTab(
+                            title = "Ekstrak",
+                            icon = Icons.Default.Unarchive,
+                            selected = mode == ScreenMode.EXTRACT,
+                            modifier = Modifier.weight(1f)
+                        ) { mode = ScreenMode.EXTRACT; lastResult = null }
+                    }
+                }
 
-KšZYÚ
-LK™
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JM™
-Bˆ
-HÂˆXÛÛŠXÛÛœË‘Y˜][•[˜\˜Ú]™KÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ^
-‘ZÜİ˜ZÈ\œÚ\‹›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›Û
-BˆÜXÙ\Š[ÙYšY\‹ÚY
-K™
-JBˆXÛÛŠXÛÛœË‘Y˜][Ú]œ›Û”šYÚÛÛ[\ØÜš\[ÛˆH[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆBˆBˆBˆB‚ˆ][HÂˆİ]\ĞØ\™
-\ŞHH\ŞKİ]\ÈHİ]\Ë™\İ[H\İ™\İ[
-BˆB‚ˆ][HÂˆØ\™
-ˆÛÛÜœÈHØ\™Y˜][Ë˜Ø\™ÛÛÜœÊÛÛZ[™\ÛÛÜˆH\ÛÛÜœËØ\›š[™ÔÛÙ
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JMK™
-Kˆ[]˜][ÛˆHØ\™Y˜][Ë˜Ø\™[]˜][ÛŠY˜][[]˜][ÛˆH™
-Bˆ
-HÂˆ›İÊ[ÙYšY\‹œY[™ÊM™
-K™\XØ[[YÛ›Y[H[YÛ›Y[•Ü
-HÂˆXÛÛŠXÛÛœË‘Y˜][“ØÚËÛÛ[\ØÜš\[ÛˆH[[H\ÛÛÜœËØ\›š[™Ë[ÙYšY\ˆH[ÙYšY\‹œÚ^™JN™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-K™
-JBˆÛÛ[[ˆÂˆ^
-Ø]][ˆ›Ü›X]‹›ÛÙZYÚH›ÛÙZYÚ”Ù[ZP›ÛÛÛÜˆH\ÛÛÜœËØ\›š[™Ë›ÛÚ^™HHL‹œÜ
-BˆÜXÙ\Š[ÙYšY\‹šZYÚ
-Ë™
-JBˆ^
-ˆ\ZØ\ÚH[šHY[™Ùİ[˜ZØ[ˆ”THËŒMKˆš[Hœ\HYZÈXZØH[™Üİ[™ÈÛZ[™Ù[ÛHš[H[™›ÚYšX\ØNÈİ[˜ZØ[ˆ\ZØ\ÚH[šH[ZÈY[™ÙZÜİ˜ZÛXKˆ‹ˆÛÛÜˆHÛÛÜŠ‘ÍÍPL‘
-K›ÛÚ^™HHLKœÜ[™RZYÚHM‹œÜˆ
-BˆBˆBˆBˆBˆ][HÂˆ›İÊ[ÙYšY\‹™š[X^ÚY
+                if (mode == ScreenMode.COMPRESS) {
+                    item {
+                        SectionCard {
+                            SectionHeading("File yang akan dikompres", "Pilih satu atau beberapa file dari penyimpanan.")
+                            Spacer(Modifier.height(12.dp))
+                            Row(horizontalArrangement = Arrangement.spacedBy(8.dp), modifier = Modifier.fillMaxWidth()) {
+                                OutlinedButton(
+                                    onClick = { filesPicker.launch(arrayOf("*/*")) },
+                                    modifier = Modifier.weight(1f),
+                                    shape = RoundedCornerShape(13.dp),
+                                    border = BorderStroke(1.dp, AppColors.border)
+                                ) {
+                                    Icon(Icons.Default.FolderOpen, contentDescription = null, modifier = Modifier.size(18.dp))
+                                    Spacer(Modifier.width(7.dp))
+                                    Text(if (selectedFiles.isEmpty()) "Pilih file" else "Ubah file")
+                                }
+                                OutlinedButton(
+                                    onClick = { compressFolderPicker.launch(null) },
+                                    modifier = Modifier.weight(1f),
+                                    shape = RoundedCornerShape(13.dp),
+                                    border = BorderStroke(1.dp, AppColors.border)
+                                ) {
+                                    Icon(Icons.Default.Inventory2, contentDescription = null, modifier = Modifier.size(18.dp))
+                                    Spacer(Modifier.width(7.dp))
+                                    Text(if (folderToCompress == null) "Pilih folder" else "Ubah folder")
+                                }
+                            }
+                            if (selectedFiles.isNotEmpty() || folderToCompress != null) {
+                                Spacer(Modifier.height(10.dp))
+                                if (selectedFiles.isNotEmpty()) {
+                                    Text("${selectedFiles.size} file dipilih", color = AppColors.accent, fontWeight = FontWeight.SemiBold, fontSize = 12.sp)
+                                    Spacer(Modifier.height(5.dp))
+                                    selectedFiles.take(4).forEach { uri ->
+                                        Text("â€¢ ${displayName(context.contentResolver, uri)}", color = AppColors.muted, fontSize = 12.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                                    }
+                                    if (selectedFiles.size > 4) Text("dan ${selectedFiles.size - 4} file lainnya", color = AppColors.muted, fontSize = 12.sp)
+                                }
+                                folderToCompress?.let { folderUri ->
+                                    Spacer(Modifier.height(5.dp))
+                                    Text("Folder: ${displayName(context.contentResolver, folderUri)}", color = AppColors.accent, fontWeight = FontWeight.SemiBold, fontSize = 12.sp, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                                }
+                            }
+                            Spacer(Modifier.height(16.dp))
+                            Divider(color = AppColors.border)
+                            Spacer(Modifier.height(14.dp))
+                            SectionHeading("Nama arsip", "Arsip akan disimpan dengan ekstensi .zpaq.")
+                            Spacer(Modifier.height(8.dp))
+                            OutlinedTextField(
+                                value = archiveName,
+                                onValueChange = { archiveName = it },
+                                modifier = Modifier.fillMaxWidth(),
+                                singleLine = true,
+                                shape = RoundedCornerShape(13.dp),
+                                placeholder = { Text("contoh: Dokumen.zpaq") }
+                            )
+                            Spacer(Modifier.height(16.dp))
+                            SectionHeading("Tingkat kompresi", "Semakin tinggi, umumnya semakin kecil tetapi lebih lambat.")
+                            Spacer(Modifier.height(12.dp))
+                            Row(verticalAlignment = Alignment.CenterVertically) {
+                                Text("${compressionLevel.toInt()}", fontSize = 26.sp, fontWeight = FontWeight.Bold, color = AppColors.accent)
+                                Spacer(Modifier.width(8.dp))
+                                Column(Modifier.weight(1f)) {
+                                    Slider(value = compressionLevel, onValueChange = { compressionLevel = it }, valueRange = 0f..5f, steps = 4)
+                                    Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) {
+                                        Text("Cepat", fontSize = 10.sp, color = AppColors.muted)
+                                        Text("Maksimal", fontSize = 10.sp, color = AppColors.muted)
+                                    }
+                                }
+                            }
+                            Spacer(Modifier.height(4.dp))
+                            Text(levelDescription(compressionLevel.toInt()), color = AppColors.muted, fontSize = 11.sp)
+                            Spacer(Modifier.height(16.dp))
+                            Button(
+                                onClick = {
+                                    if (selectedFiles.isEmpty() && folderToCompress == null) {
+                                        status = "Pilih minimal satu file atau satu folder terlebih dahulu."
+                                    } else {
+                                        val cleanName = archiveName.trim().ifBlank { "ArsipBaru.zpaq" }
+                                        val finalName = if (cleanName.lowercase(Locale.ROOT).endsWith(".zpaq")) cleanName else "$cleanName.zpaq"
+                                        createArchivePicker.launch(finalName)
+                                    }
+                                },
+                                enabled = !busy,
+                                modifier = Modifier.fillMaxWidth().height(51.dp),
+                                shape = RoundedCornerShape(14.dp)
+                            ) {
+                                Icon(Icons.Default.Archive, contentDescription = null, modifier = Modifier.size(18.dp))
+                                Spacer(Modifier.width(8.dp))
+                                Text("Buat arsip .zpaq", fontWeight = FontWeight.SemiBold)
+                                Spacer(Modifier.width(5.dp))
+                                Icon(Icons.Default.ChevronRight, contentDescription = null, modifier = Modifier.size(18.dp))
+                            }
+                        }
+                    }
+                } else {
+                    item {
+                        SectionCard {
+                            SectionHeading("Arsip sumber", "Pilih file arsip ZPAQ (.zpaq) yang ingin dibuka.")
+                            Spacer(Modifier.height(12.dp))
+                            OutlinedButton(
+                                onClick = { archivePicker.launch(arrayOf("*/*")) },
+                                modifier = Modifier.fillMaxWidth(),
+                                shape = RoundedCornerShape(13.dp),
+                                border = BorderStroke(1.dp, AppColors.border)
+                            ) {
+                                Icon(Icons.Default.FolderOpen, contentDescription = null, modifier = Modifier.size(18.dp))
+                                Spacer(Modifier.width(8.dp))
+                                Text(if (archiveUri == null) "Pilih file .zpaq" else "Ganti arsip")
+                            }
+                            archiveUri?.let {
+                                Spacer(Modifier.height(9.dp))
+                                Text(displayName(context.contentResolver, it), color = AppColors.accent, fontWeight = FontWeight.SemiBold, fontSize = 12.sp, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                            }
+                            Spacer(Modifier.height(17.dp))
+                            Divider(color = AppColors.border)
+                            Spacer(Modifier.height(14.dp))
+                            SectionHeading("Folder tujuan", "File hasil ekstrak akan disalin ke folder yang kamu pilih.")
+                            Spacer(Modifier.height(12.dp))
+                            OutlinedButton(
+                                onClick = { folderPicker.launch(null) },
+                                modifier = Modifier.fillMaxWidth(),
+                                shape = RoundedCornerShape(13.dp),
+                                border = BorderStroke(1.dp, AppColors.border)
+                            ) {
+                                Icon(Icons.Default.FolderOpen, contentDescription = null, modifier = Modifier.size(18.dp))
+                                Spacer(Modifier.width(8.dp))
+                                Text(if (destinationTree == null) "Pilih folder tujuan" else "Ganti folder tujuan")
+                            }
+                            if (destinationTree != null) {
+                                Spacer(Modifier.height(8.dp))
+                                Text("Folder tujuan sudah dipilih", color = AppColors.accent, fontSize = 12.sp, fontWeight = FontWeight.SemiBold)
+                            }
+                            Spacer(Modifier.height(16.dp))
+                            Button(
+                                onClick = {
+                                    val a = archiveUri
+                                    val d = destinationTree
+                                    if (a == null || d == null) {
+                                        status = "Pilih arsip dan folder tujuan terlebih dahulu."
+                                    } else {
+                                        scope.launch {
+                                            busy = true
+                                            lastResult = null
+                                            status = "Mengekstrak arsip ZPAQâ€¦"
+                                            val result = withContext(Dispatchers.IO) { extractArchive(context, a, d) }
+                                            lastResult = result
+                                            status = result.message
+                                            busy = false
+                                        }
+                                    }
+                                },
+                                enabled = !busy,
+                                modifier = Modifier.fillMaxWidth().height(51.dp),
+                                shape = RoundedCornerShape(14.dp)
+                            ) {
+                                Icon(Icons.Default.Unarchive, contentDescription = null, modifier = Modifier.size(18.dp))
+                                Spacer(Modifier.width(8.dp))
+                                Text("Ekstrak arsip", fontWeight = FontWeight.SemiBold)
+                                Spacer(Modifier.width(5.dp))
+                                Icon(Icons.Default.ChevronRight, contentDescription = null, modifier = Modifier.size(18.dp))
+                            }
+                        }
+                    }
+                }
 
-KÜš^›Û[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[Ù[\‹™\XØ[[YÛ›Y[H[YÛ›Y[Ù[\•™\XØ[JHÂˆ^
-–”TH[™Ú[™HËŒMH‹›ÛÚ^™HHLœÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ›Ş
-[ÙYšY\‹œÚ^™JË™
-K˜˜XÚÙÜ›İ[™
-\ÛÛÜœË›]]YÚ\˜ÛTÚ\JJBˆÜXÙ\Š[ÙYšY\‹ÚY
-™
-JBˆ^
-”[\›ÜÙ\Ø[ˆÚØ[0­È[œH[™ÙØZ‹›ÛÚ^™HHLœÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆBˆBˆBˆBˆBŸB‚ÛÛ\ÜØX›Bœš]˜]H[ˆ[ÙUXŠˆ]Nˆİš[™ËˆXÛÛˆ[™›ÚY˜ÛÛ\ÜÙKZK™Ü˜\XÜË™XİÜ‹’[XYÙU™XİÜ‹ˆÙ[XİYˆ›ÛÛX[‹ˆ[ÙYšY\ˆ[ÙYšY\ˆH[ÙYšY\‹ˆÛÛXÚÎˆ
+                item {
+                    StatusCard(busy = busy, status = status, result = lastResult)
+                }
 
-HOˆ[š]ŠHÂˆİ\™˜XÙJˆ[ÙYšY\ˆH[ÙYšY\‹šZYÚ
-K™
-K˜ÛXÚØX›JÛÛXÚÈHÛÛXÚÊKˆÛÛÜˆHYˆ
-Ù[XİY
-HÛÛÜ‹•Ú]H[ÙHÛÛÜ‹•˜[œÜ\™[ˆÚ\HH›İ[™YÛÜ›™\”Ú\JL‹™
-KˆÚYİÑ[]˜][ÛˆHYˆ
-Ù[XİY
-HK™[ÙH™ˆ
-HÂˆ›İÊÜš^›Û[\œ˜[™Ù[Y[H\œ˜[™Ù[Y[Ù[\‹™\XØ[[YÛ›Y[H[YÛ›Y[Ù[\•™\XØ[JHÂˆXÛÛŠXÛÛ‹ÛÛ[\ØÜš\[ÛˆH[[HYˆ
-Ù[XİY
-H\ÛÛÜœË˜XØÙ[[ÙH\ÛÛÜœË›]]Y[ÙYšY\ˆH[ÙYšY\‹œÚ^™JMË™
-JBˆÜXÙ\Š[ÙYšY\‹ÚY
-Ë™
-JBˆ^
-]KÛÛÜˆHYˆ
-Ù[XİY
-H\ÛÛÜœËš[šÈ[ÙH\ÛÛÜœË›]]Y›ÛÙZYÚHYˆ
-Ù[XİY
-H›ÛÙZYÚ”Ù[ZP›Û[ÙH›ÛÙZYÚ“YY][K›ÛÚ^™HHL‹œÜ
-BˆBˆBŸB‚ÛÛ\ÜØX›Bœš]˜]H[ˆÙXİ[ÛØ\™
-ÛÛ[ˆÛÛ\ÜØX›H
+                item {
+                    Card(
+                        colors = CardDefaults.cardColors(containerColor = AppColors.warningSoft),
+                        shape = RoundedCornerShape(15.dp),
+                        elevation = CardDefaults.cardElevation(defaultElevation = 0.dp)
+                    ) {
+                        Row(Modifier.padding(14.dp), verticalAlignment = Alignment.Top) {
+                            Icon(Icons.Default.Lock, contentDescription = null, tint = AppColors.warning, modifier = Modifier.size(18.dp))
+                            Spacer(Modifier.width(9.dp))
+                            Column {
+                                Text("Catatan format", fontWeight = FontWeight.SemiBold, color = AppColors.warning, fontSize = 12.sp)
+                                Spacer(Modifier.height(3.dp))
+                                Text(
+                                    "Aplikasi ini menggunakan ZPAQ 7.15. File .zpaq tidak dibuka langsung oleh pengelola file Android biasa; gunakan aplikasi ini untuk mengekstraknya.",
+                                    color = Color(0xFF775A2D), fontSize = 11.sp, lineHeight = 16.sp
+                                )
+                            }
+                        }
+                    }
+                }
+                item {
+                    Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center, verticalAlignment = Alignment.CenterVertically) {
+                        Text("ZPAQ engine 7.15", fontSize = 10.sp, color = AppColors.muted)
+                        Spacer(Modifier.width(8.dp))
+                        Box(Modifier.size(3.dp).background(AppColors.muted, CircleShape))
+                        Spacer(Modifier.width(8.dp))
+                        Text("Pemrosesan lokal Â· Tanpa unggah", fontSize = 10.sp, color = AppColors.muted)
+                    }
+                }
+            }
+        }
+    }
+}
 
-HOˆ[š]
-HÂˆØ\™
-ˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+@Composable
+private fun ModeTab(
+    title: String,
+    icon: androidx.compose.ui.graphics.vector.ImageVector,
+    selected: Boolean,
+    modifier: Modifier = Modifier,
+    onClick: () -> Unit
+) {
+    Surface(
+        modifier = modifier.height(45.dp).clickable(onClick = onClick),
+        color = if (selected) Color.White else Color.Transparent,
+        shape = RoundedCornerShape(12.dp),
+        shadowElevation = if (selected) 1.dp else 0.dp
+    ) {
+        Row(horizontalArrangement = Arrangement.Center, verticalAlignment = Alignment.CenterVertically) {
+            Icon(icon, contentDescription = null, tint = if (selected) AppColors.accent else AppColors.muted, modifier = Modifier.size(17.dp))
+            Spacer(Modifier.width(7.dp))
+            Text(title, color = if (selected) AppColors.ink else AppColors.muted, fontWeight = if (selected) FontWeight.SemiBold else FontWeight.Medium, fontSize = 12.sp)
+        }
+    }
+}
 
-KˆÛÛÜœÈHØ\™Y˜][Ë˜Ø\™ÛÛÜœÊÛÛZ[™\ÛÛÜˆH\ÛÛÜœË˜Ø\™
-KˆÚ\HH›İ[™YÛÜ›™\”Ú\JŒ™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™\ÛÛÜœË˜›Ü™\ŠKˆ[]˜][ÛˆHØ\™Y˜][Ë˜Ø\™[]˜][ÛŠY˜][[]˜][ÛˆH™
-Bˆ
-HÂˆÛÛ[[Š[ÙYšY\‹œY[™ÊMË™
-JHÈÛÛ[
+@Composable
+private fun SectionCard(content: @Composable () -> Unit) {
+    Card(
+        modifier = Modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = AppColors.card),
+        shape = RoundedCornerShape(20.dp),
+        border = BorderStroke(1.dp, AppColors.border),
+        elevation = CardDefaults.cardElevation(defaultElevation = 0.dp)
+    ) {
+        Column(Modifier.padding(17.dp)) { content() }
+    }
+}
 
-HBˆBŸB‚ÛÛ\ÜØX›Bœš]˜]H[ˆÙXİ[Û’XY[™Ê]Nˆİš[™ËİX]Nˆİš[™ÊHÂˆÛÛ[[ˆÂˆ^
-]K›ÛÚ^™HHMKœÜ›ÛÙZYÚH›ÛÙZYÚ›ÛÛÛÜˆH\ÛÛÜœËš[šÊBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-Ë™
-JBˆ^
-İX]K›ÛÚ^™HHLKœÜ[™RZYÚHM‹œÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆBŸB‚ÛÛ\ÜØX›Bœš]˜]H[ˆİ]\ĞØ\™
-\ŞNˆ›ÛÛX[‹İ]\Îˆİš[™Ë™\İ[ˆÜ\˜][Û”™\İ[ÊHÂˆØ\™
-ˆ[ÙYšY\ˆH[ÙYšY\‹™š[X^ÚY
+@Composable
+private fun SectionHeading(title: String, subtitle: String) {
+    Column {
+        Text(title, fontSize = 15.sp, fontWeight = FontWeight.Bold, color = AppColors.ink)
+        Spacer(Modifier.height(3.dp))
+        Text(subtitle, fontSize = 11.sp, lineHeight = 16.sp, color = AppColors.muted)
+    }
+}
 
-KˆÛÛÜœÈHØ\™Y˜][Ë˜Ø\™ÛÛÜœÊÛÛZ[™\ÛÛÜˆHYˆ
-™\İ[ËœİXØÙ\ÜÈOHYJH\ÛÛÜœË˜XØÙ[ÛÙ[ÙHÛÛÜ‹•Ú]JKˆÚ\HH›İ[™YÛÜ›™\”Ú\JM‹™
-Kˆ›Ü™\ˆH›Ü™\”İ›ÚÙJK™Yˆ
-™\İ[ËœİXØÙ\ÜÈOHYJHÛÛÜŠ‘‘ÑNQLJH[ÙH\ÛÛÜœË˜›Ü™\ŠKˆ[]˜][ÛˆHØ\™Y˜][Ë˜Ø\™[]˜][ÛŠY˜][[]˜][ÛˆH™
-Bˆ
-HÂˆ›İÊ[ÙYšY\‹œY[™ÊM™
-K™\XØ[[YÛ›Y[H[YÛ›Y[•Ü
-HÂˆYˆ
-\ŞJHÂˆÚ\˜İ[\”›ÙÜ™\ÜÒ[™XØ]ÜŠ[ÙYšY\ˆH[ÙYšY\‹œÚ^™JNK™
-Kİ›ÚÙUÚYH‹™ÛÛÜˆH\ÛÛÜœË˜XØÙ[
-BˆH[ÙHYˆ
-™\İ[ËœİXØÙ\ÜÈOHYJHÂˆXÛÛŠXÛÛœË‘Y˜][ÚXÚĞÚ\˜ÛKÛÛ[\ØÜš\[ÛˆH[[H\ÛÛÜœË˜XØÙ[[ÙYšY\ˆH[ÙYšY\‹œÚ^™JNK™
-JBˆH[ÙHÂˆXÛÛŠXÛÛœË‘Y˜][”™Yœ™\ÚÛÛ[\ØÜš\[ÛˆH[[H\ÛÛÜœË›]]Y[ÙYšY\ˆH[ÙYšY\‹œÚ^™JNK™
-JBˆBˆÜXÙ\Š[ÙYšY\‹ÚY
-L™
-JBˆÛÛ[[ˆÂˆ^
-Yˆ
-\ŞJH”ÙY[™È\›ÜÙ\Èˆ[ÙHYˆ
-™\İ[ËœİXØÙ\ÜÈOHYJH”Ù[\ØZHˆ[ÙHYˆ
-™\İ[OH[
-H™[[H™\š\Ú[ˆ[ÙH”İ]\È‹›ÛÚ^™HHL‹œÜ›ÛÙZYÚH›ÛÙZYÚ›ÛÛÛÜˆH\ÛÛÜœËš[šÊBˆÜXÙ\Š[ÙYšY\‹šZYÚ
-Ë™
-JBˆ^
-İ]\Ë›ÛÚ^™HHLKœÜ[™RZYÚHM‹œÜÛÛÜˆH\ÛÛÜœË›]]Y
-BˆYˆ
-\™\İ[Ë™]Z[š\Ó[Ü›[šÊ
-JHÂˆÜXÙ\Š[ÙYšY\‹šZYÚ
-‹™
-JBˆ^
-™\İ[HK™]Z[›ÛÚ^™HHLœÜ[™RZYÚHMœÜÛÛÜˆH\ÛÛÜœË›]]YX^[™\ÈHKİ™\™›İÈH^İ™\™›İË‘[\Ú\ÊBˆBˆBˆBˆBŸB‚œš]˜]H[ˆ]™[\ØÜš\[ÛŠ]™[ˆ[
-Nˆİš[™ÈHÚ[ˆ
-]™[
-HÂˆOˆ“]™[0­Èš[Üš]\ÈÙXÙ\][‹˜\Ú[ÈÛÛ\™\ÚHXšZ™[™Zˆ‚ˆHOˆ“]™[H0­È[™Ø]\˜[ˆÙ\][ˆÙZ[X˜[™È
-Y˜][”TJKˆ‚ˆˆOˆ“]™[ˆ0­ÈÛÛ\™\ÚHXšZ˜\][™Ø[ˆØZİHXšZ[XKˆ‚ˆÈOˆ“]™[È0­ÈY[™İ][XZØ[ˆZİ\˜[ˆ\œÚ\X[™ÈXšZÙXÚ[ˆ‚ˆOˆ“]™[0­ÈÛÛ\™\ÚH[™ÙÚKY[X]ZØ[ˆXšZ˜[XZÈØZİH[ˆY[[ÜšKˆ‚ˆ[ÙHOˆ“]™[H0­ÈÛÛ\™\ÚH\[™ÙÚHX[™È\ÙYXZØ[ˆ”TNÈš\ØHØ[™Ø][X˜][ˆ›Ü›ÜÈY[[ÜšKˆ‚ŸB‚œš]˜]H[ˆ\Ü^S˜[YJ™\ÛÛ™\ˆÛÛ[™\ÛÛ™\‹\šNˆ\šJNˆİš[™ÈÂˆ™]\›ˆ[Ø]Ú[™ÈÂˆ™\ÛÛ™\‹œ]Y\J\šK\œ˜^SÙŠÜ[˜X›PÛÛ[[œË‘TÔVWÓSQJK[[[
-OË\ÙHÈİ\œÛÜˆO‚ˆYˆ
-İ\œÛÜ‹›[İ™UÑš\œİ
+@Composable
+private fun StatusCard(busy: Boolean, status: String, result: OperationResult?) {
+    Card(
+        modifier = Modifier.fillMaxWidth(),
+        colors = CardDefaults.cardColors(containerColor = if (result?.success == true) AppColors.accentSoft else Color.White),
+        shape = RoundedCornerShape(16.dp),
+        border = BorderStroke(1.dp, if (result?.success == true) Color(0xFFD7E9E1) else AppColors.border),
+        elevation = CardDefaults.cardElevation(defaultElevation = 0.dp)
+    ) {
+        Row(Modifier.padding(14.dp), verticalAlignment = Alignment.Top) {
+            if (busy) {
+                CircularProgressIndicator(modifier = Modifier.size(19.dp), strokeWidth = 2.dp, color = AppColors.accent)
+            } else if (result?.success == true) {
+                Icon(Icons.Default.CheckCircle, contentDescription = null, tint = AppColors.accent, modifier = Modifier.size(19.dp))
+            } else {
+                Icon(Icons.Default.Refresh, contentDescription = null, tint = AppColors.muted, modifier = Modifier.size(19.dp))
+            }
+            Spacer(Modifier.width(10.dp))
+            Column {
+                Text(if (busy) "Sedang diproses" else if (result?.success == true) "Selesai" else if (result != null) "Belum berhasil" else "Status", fontSize = 12.sp, fontWeight = FontWeight.Bold, color = AppColors.ink)
+                Spacer(Modifier.height(3.dp))
+                Text(status, fontSize = 11.sp, lineHeight = 16.sp, color = AppColors.muted)
+                if (!result?.detail.isNullOrBlank()) {
+                    Spacer(Modifier.height(6.dp))
+                    Text(result!!.detail, fontSize = 10.sp, lineHeight = 14.sp, color = AppColors.muted, maxLines = 5, overflow = TextOverflow.Ellipsis)
+                }
+            }
+        }
+    }
+}
 
-JHİ\œÛÜ‹™Ù]İš[™Ê
-H[ÙH[ˆBˆK™Ù]Ü“[
+private fun levelDescription(level: Int): String = when (level) {
+    0 -> "Level 0 Â· Prioritas kecepatan, rasio kompresi lebih rendah."
+    1 -> "Level 1 Â· Pengaturan cepat dan seimbang (default ZPAQ)."
+    2 -> "Level 2 Â· Kompresi lebih rapat dengan waktu lebih lama."
+    3 -> "Level 3 Â· Mengutamakan ukuran arsip yang lebih kecil."
+    4 -> "Level 4 Â· Kompresi tinggi, membutuhkan lebih banyak waktu dan memori."
+    else -> "Level 5 Â· Kompresi tertinggi yang disediakan ZPAQ; bisa sangat lambat dan boros memori."
+}
 
-HÎˆ\šK›\İ]ÙYÛY[ËœİXœİš[™ĞY\“\İ
-	ËÉÊHÎˆ‘š[H‚ŸB‚œš]˜]H[ˆØY™Qš[S˜[YJ[œ]ˆİš[™ÊNˆİš[™ÈÂˆ˜[ÛX[™YH[œ]œİXœİš[™ĞY\“\İ
-	ËÉÊKœİXœİš[™ĞY\“\İ
-	×	ÊBˆœ™\XÙJ™YÙ^
-–×LWLQ—HŠK—ÈŠBˆœ™\XÙJ‹‹ˆ‹—ÈŠBˆš[J
-Bˆ™]\›ˆÛX[™YšY›[šÈÈ™š[K˜š[ˆˆBŸB‚œš]˜]H[ˆ[š\]YQš[J\™[ˆš[K™\]Y\İY˜[YNˆİš[™ÊNˆš[HÂˆ˜[ØY™HHØY™Qš[S˜[YJ™\]Y\İY˜[YJBˆ˜\ˆØ[™Y]HHš[J\™[ØY™JBˆYˆ
-XØ[™Y]K™^\İÊ
-JH™]\›ˆØ[™Y]Bˆ˜[˜\ÙHHØY™KœİXœİš[™Ğ™Y›Ü™S\İ
-	Ë‰ËØY™JBˆ˜[^HYˆ
-ØY™K˜ÛÛZ[œÊ	Ë‰ÊJH‹‰ÜØY™KœİXœİš[™ĞY\“\İ
-	Ë‰Ê_Hˆ[ÙHˆ‚ˆ˜\ˆ[™^H‚ˆÚ[H
-Ø[™Y]K™^\İÊ
-JHÂˆØ[™Y]HHš[J\™[‰˜\ÙH
-	[™^
-I^ŠBˆ[™^
-ÊÂˆBˆ™]\›ˆØ[™Y]BŸB‚œš]˜]H[ˆÛÜU\šUÑš[JÛÛ^ˆÛÛ^\šNˆ\šK\İ[˜][Ûˆš[JHÂˆ˜[[œ]HÛÛ^˜ÛÛ[™\ÛÛ™\‹›Ü[’[œ]İ™X[J\šJHÎˆ›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[X˜XØHš[HX[™È\[ZˆŠBˆ[œ]\ÙHÈÛİ\˜ÙHOˆ\İ[˜][Û‹›İ]]İ™X[J
-K\ÙHÈ\™Ù]OˆÛİ\˜ÙK˜ÛÜUÊ\™Ù]
-HHBŸB‚œš]˜]H[ˆ[–œ\JÛÛ^ˆÛÛ^\™ÜÎˆ\İİš[™Ï‹ÛÜšÚ[™Ñ\ˆš[KÙÎˆš[JNˆ[Âˆ™]\›ˆœ\S˜]]™Kœ[“˜]]™J\™ÜËÕ\Y\œ˜^J
-KÛÜšÚ[™Ñ\‹˜XœÛÛ]T]ÙË˜XœÛÛ]T]
-BŸB‚œš]˜]H[ˆÙÔİ[[X\JÙÎˆš[JNˆİš[™ÈÂˆYˆ
-[ÙË™^\İÊ
-JH™]\›ˆ•YZÈYH]Z[ÙÈ\šHY\Ú[ˆ”TKˆ‚ˆ™]\›ˆ[Ø]Ú[™ÈÂˆÙËœ™XY[™\Ê
-KZÙS\İ
-
-Kš›Ú[•Ôİš[™Ê—ˆŠKZÙJÌ
-BˆK™Ù]Ü‘Y˜][
-“ÙÈYZÈ\]X˜XØKˆŠBŸB‚œš]˜]H[ˆÛÜQØİ[Y[›Û\•ÓØØ[
-ÛÛ^ˆÛÛ^Ûİ\˜ÙNˆØİ[Y[š[K\İ[˜][Ûˆš[JHÂˆÛİ\˜ÙK›\İš[\Ê
-K™›Ü‘XXÚÈÚ[O‚ˆ˜[˜[YHHØY™Qš[S˜[YJÚ[›˜[YHÎˆ™š[K˜š[ˆŠBˆYˆ
-Ú[š\Ñ\™XİÜJHÂˆ˜[\™Ù]\ˆH[š\]YQš[J\İ[˜][Û‹˜[YJBˆYˆ
-]\™Ù]\‹›ZÙ\œÊ
-JH›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[XX]›Û\ˆ	˜[YHŠBˆÛÜQØİ[Y[›Û\•ÓØØ[
-ÛÛ^Ú[\™Ù]\ŠBˆH[ÙHYˆ
-Ú[š\Ñš[JHÂˆ˜[\™Ù]š[HH[š\]YQš[J\İ[˜][Û‹˜[YJBˆÛÜU\šUÑš[JÛÛ^Ú[\šK\™Ù]š[JBˆBˆBŸB‚œš]˜]H[ˆÜ™X]P\˜Ú]™JÛÛ^ˆÛÛ^\š\Îˆ\İ\šO‹›Û\•\šNˆ\šOËİ]]\šNˆ\šK]™[ˆ[
-NˆÜ\˜][Û”™\İ[Âˆ˜[ÛÜšÜÜXÙHHš[JÛÛ^˜ØXÚQ\‹œ\K]ÛÜšÈŠBˆÛÜšÜÜXÙK™[]T™Xİ\œÚ]™[J
-Bˆ˜[[œ]\ˆHš[JÛÜšÜÜXÙKš[œ]ŠBˆYˆ
-Z[œ]\‹›ZÙ\œÊ
-JH™]\›ˆÜ\˜][Û”™\İ[
-˜[ÙK•YZÈ\]Y[ZX\Ø[ˆ›Û\ˆÙ\š˜HÙ[Y[\˜KˆŠB‚ˆ™]\›ˆHÂˆ˜[İYÙY˜[Y\ÈH]]X›S\İÙİš[™ÏŠ
-Bˆ\š\Ë™›Ü‘XXÚ[™^YÈ[™^\šHO‚ˆ˜[™\]Y\İYH\Ü^S˜[YJÛÛ^˜ÛÛ[™\ÛÛ™\‹\šJBˆ˜[\™Ù]H[š\]YQš[J[œ]\‹™\]Y\İYšY›[šÈÈ™š[KI[™^˜š[ˆˆJBˆÛÜU\šUÑš[JÛÛ^\šK\™Ù]
-BˆİYÙY˜[Y\È
-ÏH\™Ù]›˜[YBˆBˆ›Û\•\šOË›]È\šHO‚ˆ˜[Ûİ\˜ÙQ›Û\ˆHØİ[Y[š[K™œ›ÛU™YU\šJÛÛ^\šJBˆÎˆ›İÈSÑ^Ù\[ÛŠ‘›Û\ˆİ[X™\ˆYZÈ\]X˜XØKˆŠBˆYˆ
-\Ûİ\˜ÙQ›Û\‹š\Ñ\™XİÜJH›İÈSÑ^Ù\[ÛŠ”İ[X™\ˆX[™È\[ZZØ[ˆ›Û\‹ˆŠBˆ˜[›Û\”›ÛİH[š\]YQš[J[œ]\‹Ûİ\˜ÙQ›Û\‹›˜[YHÎˆ‘›Û\ˆŠBˆYˆ
-Y›Û\”›Ûİ›ZÙ\œÊ
-JH›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[ZX\Ø[ˆ›Û\ˆİ[X™\‹ˆŠBˆÛÜQØİ[Y[›Û\•ÓØØ[
-ÛÛ^Ûİ\˜ÙQ›Û\‹›Û\”›Ûİ
-BˆİYÙY˜[Y\È
-ÏH›Û\”›Ûİ›˜[YBˆB‚ˆ˜[\˜Ú]™HHš[JÛÜšÜÜXÙK˜Ü™X]Yœ\HŠBˆ˜[ÙÈHš[JÛÜšÜÜXÙKœ\K›ÙÈŠBˆ˜[\™ÜÈH]]X›S\İÙŠœ\H‹˜Y‹\˜Ú]™K˜XœÛÛ]T]
-Bˆ\™ÜË˜Y[
-İYÙY˜[Y\ÊBˆ\™ÜÈ
-ÏH\İÙŠ‹[Y]Ù‹]™[Ôİš[™Ê
-K‹]HŠBˆ˜[ÛÙHH[–œ\JÛÛ^\™ÜË[œ]\‹ÙÊBˆYˆ
-ÛÙHOHX\˜Ú]™K™^\İÊ
-H\˜Ú]™K›[™İ
+private fun displayName(resolver: ContentResolver, uri: Uri): String {
+    return runCatching {
+        resolver.query(uri, arrayOf(OpenableColumns.DISPLAY_NAME), null, null, null)?.use { cursor ->
+            if (cursor.moveToFirst()) cursor.getString(0) else null
+        }
+    }.getOrNull() ?: uri.lastPathSegment?.substringAfterLast('/') ?: "File"
+}
 
-HOH
-HÂˆÜ\˜][Û”™\İ[
-˜[ÙK”[XX][ˆ\œÚ\ØYØ[
-ÛÙH	ÛÙJKˆ‹ÙÔİ[[X\JÙÊJBˆH[ÙHÂˆ˜[İ]]HÛÛ^˜ÛÛ[™\ÛÛ™\‹›Ü[“İ]]İ™X[Jİ]]\šKÈŠBˆÎˆ›İÈSÑ^Ù\[ÛŠ“ÚØ\ÚH[Z[\[˜[ˆYZÈ\]][\ËˆŠBˆİ]]\ÙHÈ\™Ù]Oˆ\˜Ú]™Kš[œ]İ™X[J
-K\ÙHÈÛİ\˜ÙHOˆÛİ\˜ÙK˜ÛÜUÊ\™Ù]
-HHBˆÜ\˜][Û”™\İ[
-YK\œÚ\™\š\Ú[XX][ˆ\Ú[\[‹ˆ‹•Zİ\˜[ˆ\œÚ\ˆ	Ù›Ü›X]]\Ê\˜Ú]™K›[™İ
+private fun safeFileName(input: String): String {
+    val cleaned = input.substringAfterLast('/').substringAfterLast('\\')
+        .replace(Regex("[\\u0000-\\u001F]"), "_")
+        .replace("..", "_")
+        .trim()
+    return cleaned.ifBlank { "file.bin" }
+}
 
-J_W“]™[ÛÛ\™\ÚNˆ	]™[ŠBˆBˆHØ]Ú
-Nˆ^Ù\[ÛŠHÂˆÜ\˜][Û”™\İ[
-˜[ÙK‘ØYØ[Y[XX]\œÚ\ˆ	ÙK›Y\ÜØYÙHÎˆšÙ\Ø[Z[ˆYZÈZÙ]ZZHŸHŠBˆHš[˜[HÂˆÛÜšÜÜXÙK™[]T™Xİ\œÚ]™[J
-BˆBŸB‚œš]˜]H[ˆ^˜Xİ\˜Ú]™JÛÛ^ˆÛÛ^\˜Ú]™U\šNˆ\šK™YU\šNˆ\šJNˆÜ\˜][Û”™\İ[Âˆ˜[ÛÜšÜÜXÙHHš[JÛÛ^˜ØXÚQ\‹œ\KY^˜Xİ]ÛÜšÈŠBˆÛÜšÜÜXÙK™[]T™Xİ\œÚ]™[J
-Bˆ˜[İ]]\ˆHš[JÛÜšÜÜXÙK›İ]]ŠBˆYˆ
-[İ]]\‹›ZÙ\œÊ
-JH™]\›ˆÜ\˜][Û”™\İ[
-˜[ÙK•YZÈ\]Y[ZX\Ø[ˆ›Û\ˆZÜİ˜ZÜÚKˆŠB‚ˆ™]\›ˆHÂˆ˜[\˜Ú]™HHš[JÛÜšÜÜXÙKœÛİ\˜ÙKœ\HŠBˆÛÜU\šUÑš[JÛÛ^\˜Ú]™U\šK\˜Ú]™JBˆ˜[ÙÈHš[JÛÜšÜÜXÙKœ\K›ÙÈŠBˆ˜[\™ÜÈH\İÙŠœ\H‹™^˜Xİ‹\˜Ú]™K˜XœÛÛ]T]‹]È‹İ]]\‹˜XœÛÛ]T]‹]HŠBˆ˜[ÛÙHH[–œ\JÛÛ^\™ÜËÛÜšÜÜXÙKÙÊBˆYˆ
-ÛÙHOH
-HÂˆÜ\˜][Û”™\İ[
-˜[ÙK‘ZÜİ˜ZÜÚHØYØ[
-ÛÙH	ÛÙJKˆ‹ÙÔİ[[X\JÙÊJBˆH[ÙHÂˆ˜[\İ[˜][ÛˆHØİ[Y[š[K™œ›ÛU™YU\šJÛÛ^™YU\šJBˆÎˆ›İÈSÑ^Ù\[ÛŠ‘›Û\ˆZX[ˆYZÈ˜[YˆŠBˆ˜[ÛÜYYHÛÜQ\™XİÜUÑØİ[Y[™YJÛÛ^İ]]\‹\İ[˜][ÛŠBˆÜ\˜][Û”™\İ[
-YK‘ZÜİ˜ZÜÚHÙ[\ØZKˆ	ÛÜYY][H\Ø[[ˆÙH›Û\ˆZX[‹ˆ‹ÙÔİ[[X\JÙÊJBˆBˆHØ]Ú
-Nˆ^Ù\[ÛŠHÂˆÜ\˜][Û”™\İ[
-˜[ÙK‘ØYØ[Y[™ÙZÜİ˜ZÈ\œÚ\ˆ	ÙK›Y\ÜØYÙHÎˆšÙ\Ø[Z[ˆYZÈZÙ]ZZHŸHŠBˆHš[˜[HÂˆÛÜšÜÜXÙK™[]T™Xİ\œÚ]™[J
-BˆBŸB‚œš]˜]H[ˆÛÜQ\™XİÜUÑØİ[Y[™YJÛÛ^ˆÛÛ^Ûİ\˜ÙNˆš[K\İ[˜][ÛˆØİ[Y[š[JNˆ[Âˆ˜\ˆÛÜYYHˆÛİ\˜ÙK›\İš[\Ê
-OË™›Ü‘XXÚÈÚ[O‚ˆYˆ
-Ú[š\Ñ\™XİÜJHÂˆ˜[ØY™S˜[YHHØY™Qš[S˜[YJÚ[›˜[YHÎˆ‘›Û\ˆŠBˆ˜[\™Ù]\ˆH\İ[˜][Û‹™š[™š[JØY™S˜[YJOËZÙRYˆÈ]š\Ñ\™XİÜHBˆÎˆ\İ[˜][Û‹˜Ü™X]Q\™XİÜJØY™S˜[YJBˆÎˆ›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[XX]›Û\ˆ	ØY™S˜[YHŠBˆÛÜYY
-ÏHÛÜQ\™XİÜUÑØİ[Y[™YJÛÛ^Ú[\™Ù]\ŠBˆH[ÙHYˆ
-Ú[š\Ñš[JHÂˆ˜[˜[YHHØY™Qš[S˜[YJÚ[›˜[YHÎˆ™š[K˜š[ˆŠBˆ˜\ˆ\™Ù]˜[YHH˜[YBˆ˜\ˆİY™š^H‚ˆÚ[H
-\İ[˜][Û‹™š[™š[J\™Ù]˜[YJHOH[
-HÂˆ˜[˜\ÙHH˜[YKœİXœİš[™Ğ™Y›Ü™S\İ
-	Ë‰Ë˜[YJBˆ˜[^HYˆ
-˜[YK˜ÛÛZ[œÊ	Ë‰ÊJH‹‰Û˜[YKœİXœİš[™ĞY\“\İ
-	Ë‰Ê_Hˆ[ÙHˆ‚ˆ\™Ù]˜[YHH‰˜\ÙH
-	İY™š^
-I^‚ˆİY™š^
-ÊÂˆBˆ˜[\™Ù]H\İ[˜][Û‹˜Ü™X]Qš[J˜\XØ][Û‹ÛØİ]\İ™X[H‹\™Ù]˜[YJBˆÎˆ›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[XX]š[H	\™Ù]˜[YHŠBˆ˜[İ]]HÛÛ^˜ÛÛ[™\ÛÛ™\‹›Ü[“İ]]İ™X[J\™Ù]\šKÈŠBˆÎˆ›İÈSÑ^Ù\[ÛŠ•YZÈ\]Y[[\Èš[H	\™Ù]˜[YHŠBˆİ]]\ÙHÈÚ[šÈOˆÚ[š[œ]İ™X[J
-K\ÙHÈ[œ]Oˆ[œ]˜ÛÜUÊÚ[šÊHHBˆÛÜYY
-ÊÂˆBˆBˆ™]\›ˆÛÜYYŸB‚œš]˜]H[ˆ›Ü›X]]\Ê]\ÎˆÛ™ÊNˆİš[™ÈÂˆYˆ
-]\ÈL
-H™]\›ˆ‰]\Èˆ‚ˆ˜[ØˆH]\ÈÈLŒˆYˆ
-ØˆL
-H™]\›ˆİš[™Ë™›Ü›X]
-ØØ[K•TË‰KŒYˆĞˆ‹ØŠBˆ™]\›ˆİš[™Ë™›Ü›X]
-ØØ[K•TË‰KŒ™ˆPˆ‹ØˆÈLŒ
-BŸB
+private fun uniqueFile(parent: File, requestedName: String): File {
+    val safe = safeFileName(requestedName)
+    var candidate = File(parent, safe)
+    if (!candidate.exists()) return candidate
+    val base = safe.substringBeforeLast('.', safe)
+    val ext = if (safe.contains('.')) ".${safe.substringAfterLast('.')}" else ""
+    var index = 2
+    while (candidate.exists()) {
+        candidate = File(parent, "$base ($index)$ext")
+        index++
+    }
+    return candidate
+}
+
+private fun copyUriToFile(context: Context, uri: Uri, destination: File) {
+    val input = context.contentResolver.openInputStream(uri) ?: throw IOException("Tidak dapat membaca file yang dipilih.")
+    input.use { source -> destination.outputStream().use { target -> source.copyTo(target) } }
+}
+
+private fun runZpaq(context: Context, args: List<String>, workingDir: File, log: File): Int {
+    return ZpaqNative.runNative(args.toTypedArray(), workingDir.absolutePath, log.absolutePath)
+}
+
+private fun logSummary(log: File): String {
+    if (!log.exists()) return "Tidak ada detail log dari mesin ZPAQ."
+    return runCatching {
+        log.readLines().takeLast(8).joinToString("\n").take(700)
+    }.getOrDefault("Log tidak dapat dibaca.")
+}
+
+private fun copyDocumentFolderToLocal(context: Context, source: DocumentFile, destination: File) {
+    source.listFiles().forEach { child ->
+        val name = safeFileName(child.name ?: "file.bin")
+        if (child.isDirectory) {
+            val targetDir = uniqueFile(destination, name)
+            if (!targetDir.mkdirs()) throw IOException("Tidak dapat membuat folder $name")
+            copyDocumentFolderToLocal(context, child, targetDir)
+        } else if (child.isFile) {
+            val targetFile = uniqueFile(destination, name)
+            copyUriToFile(context, child.uri, targetFile)
+        }
+    }
+}
+
+private fun createArchive(context: Context, uris: List<Uri>, folderUri: Uri?, outputUri: Uri, level: Int): OperationResult {
+    val workspace = File(context.cacheDir, "zpaq-work")
+    workspace.deleteRecursively()
+    val inputDir = File(workspace, "input")
+    if (!inputDir.mkdirs()) return OperationResult(false, "Tidak dapat menyiapkan folder kerja sementara.")
+
+    return try {
+        val stagedNames = mutableListOf<String>()
+        uris.forEachIndexed { index, uri ->
+            val requested = displayName(context.contentResolver, uri)
+            val target = uniqueFile(inputDir, requested.ifBlank { "file-$index.bin" })
+            copyUriToFile(context, uri, target)
+            stagedNames += target.name
+        }
+        folderUri?.let { uri ->
+            val sourceFolder = DocumentFile.fromTreeUri(context, uri)
+                ?: throw IOException("Folder sumber tidak dapat dibaca.")
+            if (!sourceFolder.isDirectory) throw IOException("Sumber yang dipilih bukan folder.")
+            val folderRoot = uniqueFile(inputDir, sourceFolder.name ?: "Folder")
+            if (!folderRoot.mkdirs()) throw IOException("Tidak dapat menyiapkan folder sumber.")
+            copyDocumentFolderToLocal(context, sourceFolder, folderRoot)
+            stagedNames += folderRoot.name
+        }
+
+        val archive = File(workspace, "created.zpaq")
+        val log = File(workspace, "zpaq.log")
+        val args = mutableListOf("zpaq", "add", archive.absolutePath)
+        args.addAll(stagedNames)
+        args += listOf("-method", level.toString(), "-t1")
+        val code = runZpaq(context, args, inputDir, log)
+        if (code != 0 || !archive.exists() || archive.length() == 0L) {
+            OperationResult(false, "Pembuatan arsip gagal (kode $code).", logSummary(log))
+        } else {
+            val output = context.contentResolver.openOutputStream(outputUri, "w")
+                ?: throw IOException("Lokasi penyimpanan tidak dapat ditulis.")
+            output.use { target -> archive.inputStream().use { source -> source.copyTo(target) } }
+            OperationResult(true, "Arsip berhasil dibuat dan disimpan.", "Ukuran arsip: ${formatBytes(archive.length())}\nLevel kompresi: $level")
+        }
+    } catch (e: Exception) {
+        OperationResult(false, "Gagal membuat arsip: ${e.message ?: "kesalahan tidak diketahui"}")
+    } finally {
+        workspace.deleteRecursively()
+    }
+}
+
+private fun extractArchive(context: Context, archiveUri: Uri, treeUri: Uri): OperationResult {
+    val workspace = File(context.cacheDir, "zpaq-extract-work")
+    workspace.deleteRecursively()
+    val outputDir = File(workspace, "output")
+    if (!outputDir.mkdirs()) return OperationResult(false, "Tidak dapat menyiapkan folder ekstraksi.")
+
+    return try {
+        val archive = File(workspace, "source.zpaq")
+        copyUriToFile(context, archiveUri, archive)
+        val log = File(workspace, "zpaq.log")
+        val args = listOf("zpaq", "extract", archive.absolutePath, "-to", outputDir.absolutePath, "-t1")
+        val code = runZpaq(context, args, workspace, log)
+        if (code != 0) {
+            OperationResult(false, "Ekstraksi gagal (kode $code).", logSummary(log))
+        } else {
+            val destination = DocumentFile.fromTreeUri(context, treeUri)
+                ?: throw IOException("Folder tujuan tidak valid.")
+            val copied = copyDirectoryToDocumentTree(context, outputDir, destination)
+            OperationResult(true, "Ekstraksi selesai. $copied item disalin ke folder tujuan.", logSummary(log))
+        }
+    } catch (e: Exception) {
+        OperationResult(false, "Gagal mengekstrak arsip: ${e.message ?: "kesalahan tidak diketahui"}")
+    } finally {
+        workspace.deleteRecursively()
+    }
+}
+
+private fun copyDirectoryToDocumentTree(context: Context, source: File, destination: DocumentFile): Int {
+    var copied = 0
+    source.listFiles()?.forEach { child ->
+        if (child.isDirectory) {
+            val safeName = safeFileName(child.name ?: "Folder")
+            val targetDir = destination.findFile(safeName)?.takeIf { it.isDirectory }
+                ?: destination.createDirectory(safeName)
+                ?: throw IOException("Tidak dapat membuat folder $safeName")
+            copied += copyDirectoryToDocumentTree(context, child, targetDir)
+        } else if (child.isFile) {
+            val name = safeFileName(child.name ?: "file.bin")
+            var targetName = name
+            var suffix = 2
+            while (destination.findFile(targetName) != null) {
+                val base = name.substringBeforeLast('.', name)
+                val ext = if (name.contains('.')) ".${name.substringAfterLast('.')}" else ""
+                targetName = "$base ($suffix)$ext"
+                suffix++
+            }
+            val target = destination.createFile("application/octet-stream", targetName)
+                ?: throw IOException("Tidak dapat membuat file $targetName")
+            val output = context.contentResolver.openOutputStream(target.uri, "w")
+                ?: throw IOException("Tidak dapat menulis file $targetName")
+            output.use { sink -> child.inputStream().use { input -> input.copyTo(sink) } }
+            copied++
+        }
+    }
+    return copied
+}
+
+private fun formatBytes(bytes: Long): String {
+    if (bytes < 1024) return "$bytes B"
+    val kb = bytes / 1024.0
+    if (kb < 1024) return String.format(Locale.US, "%.1f KB", kb)
+    return String.format(Locale.US, "%.2f MB", kb / 1024.0)
+}

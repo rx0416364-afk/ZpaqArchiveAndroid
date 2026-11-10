@@ -1,5 +1,21 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëÛXZÙWÛZ[š[][WÜ™\]Z\™Y
-‘T”ÒSÓˆËŒŒ‹ŒJBœ›Ú™Xİ
-œ\Y[™Ú[™HS‘ÕPQÑTÈÖ
-B‚ˆÈH\İ™X[HÛÛ[X[™[[™H[HÚ[\È^ÜÙYÈH“’HœšYÙH\Èœ\WÛXZ[‹‚œÙ]ÜÛİ\˜ÙWÙš[\×Ü›Ü\Y\Êœ\K˜Ü“ÔT•QTÈÓÓTSWÑQ’S’USÓ”È›XZ[^œ\WÛXZ[ˆŠB‚˜YÛXœ˜\Jˆœ\Y[™Ú[™BˆÒT‘Qˆœ\K˜ÜˆXœ\K˜Üˆ›šWØœšYÙK˜ÜŠB‚\™Ù]ØÛÛ\[WÙ™X]\™\Êœ\Y[™Ú[™H’UUHŞÜİÌM
-B\™Ù]ØÛÛ\[WÙYš[š][ÛœÊœ\Y[™Ú[™H’UUH[š^LH“Ò’ULJB\™Ù]ØÛÛ\[WÛÜ[ÛœÊœ\Y[™Ú[™H’UUHSÌÈY™^Ù\[ÛœÈYœHUÛ›Ë][\ÙY\\˜[Y]\ŠB‚™š[™ÛXœ˜\JÙË[XˆÙÊB\™Ù]Û[š×ÛXœ˜\šY\Êœ\Y[™Ú[™H’UUH	ÛÙË[XŸJB
+Warning: ff was declared with const; use let for reassignable variables.
+cmake_minimum_required(VERSION 3.22.1)
+project(zpaqengine LANGUAGES CXX)
+
+# The upstream command-line entry point is exposed to the JNI bridge as zpaq_main.
+set_source_files_properties(zpaq.cpp PROPERTIES COMPILE_DEFINITIONS "main=zpaq_main")
+
+add_library(
+    zpaqengine
+    SHARED
+    zpaq.cpp
+    libzpaq.cpp
+    jni_bridge.cpp
+)
+
+target_compile_features(zpaqengine PRIVATE cxx_std_14)
+target_compile_definitions(zpaqengine PRIVATE unix=1 NOJIT=1)
+target_compile_options(zpaqengine PRIVATE -O3 -fexceptions -frtti -Wno-unused-parameter)
+
+find_library(log-lib log)
+target_link_libraries(zpaqengine PRIVATE ${log-lib})

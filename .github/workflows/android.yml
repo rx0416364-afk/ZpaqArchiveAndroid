@@ -1,1 +1,44 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ë˜[YNˆZ[[™›ÚYTÂ‚›Û‚ˆÛÜšÙ›İ×Ù\Ü]Ú‚ˆ\Ú‚ˆœ˜[˜Ú\ÎˆÈXZ[‹X\İ\ˆB‚œ\›Z\ÜÚ[ÛœÎ‚ˆÛÛ[Îˆ™XY‚š›ØœÎ‚ˆZ[‚ˆ[œË[ÛˆX[K[]\İˆİ\Î‚ˆH˜[YNˆÚXÚÛİ]Ûİ\˜ÙBˆ\Ù\ÎˆXİ[ÛœËØÚXÚÛİ]‚ˆH˜[YNˆÙ]\˜]˜Bˆ\Ù\ÎˆXİ[ÛœËÜÙ]\Z˜]˜PˆÚ]‚ˆ\İšX][Ûˆ[]\š[‚ˆ˜]˜K]™\œÚ[Ûˆ	ÌMÉÂ‚ˆH˜[YNˆÙ]\[™›ÚYÑÂˆ\Ù\Îˆ[™›ÚYXXİ[ÛœËÜÙ]\X[™›ÚYŒÂ‚ˆH˜[YNˆ[œİ[[™›ÚYZ[ÛÛÂˆ[ˆÙÛX[˜YÙ\ˆœ]›Ü›\ÎØ[™›ÚYLÍHˆ˜Z[]ÛÛÎÌÍKŒŒˆ›™ÎÌËŒ‹ŒLÎLNˆ˜ÛXZÙNÌËŒŒ‹ŒH‚‚ˆH˜[YNˆÙ]\Ü˜YBˆ\Ù\ÎˆÜ˜YKØXİ[ÛœËÜÙ]\YÜ˜YPˆÚ]‚ˆÜ˜YK]™\œÚ[Ûˆ	ÎIÂ‚ˆH˜[YNˆZ[XYÈTÂˆ[ˆÜ˜YHK[›ËYY[[Ûˆ\ÜÙ[X›QXYÂ‚ˆH˜[YNˆ\ØYTÂˆ\Ù\ÎˆXİ[ÛœËİ\ØYX\Y˜XİˆÚ]‚ˆ˜[YNˆœ\P\˜Ú]™KYXYËX\Âˆ]ˆ\ØZ[Ûİ]]ËØ\ËÙXYËØ\YXYË˜\ÂˆY‹[›ËYš[\ËY›İ[™ˆ\œ›Ü‚
+Warning: ff was declared with const; use let for reassignable variables.
+name: Build Android APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install Android build tools
+        run: sdkmanager "platforms;android-35" "build-tools;35.0.0" "ndk;27.2.12479018" "cmake;3.22.1"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.9'
+
+      - name: Build debug APK
+        run: gradle --no-daemon assembleDebug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: ZpaqArchive-debug-apk
+          path: app/build/outputs/apk/debug/app-debug.apk
+          if-no-files-found: error

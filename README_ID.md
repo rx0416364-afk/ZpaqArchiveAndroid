@@ -1,13 +1,50 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëÈœ\H\˜Ú]™H[™›ÚY‚\ZØ\ÚH[™›ÚYZ[š[X[\È[ZÈY[XX][ˆY[™ÙZÜİ˜ZÈ\œÚ\
-Š–”TH
-œ\JJŠˆY[™Ùİ[˜ZØ[ˆÛİ\˜ÙH[™Ú[™H”THËŒMH\šH\œÚ\œ\MÌMKš\X[™È\ÙYXZØ[‹‚‚ˆÈÈš]\‚‚‹HY[XX]\œÚ\œ\X\šH™X™\˜\Hš[HÙZØ[Yİ\Ë‚‹HY[XX]\œÚ\\šHØ]H›Û\ˆ™\Ù\HİZİ\ˆİX™›Û\‹[XK‚‹HY[™ÙZÜİ˜ZÈ\œÚ\ÙH›Û\ˆ[Z[ˆY[[ZH[™›ÚYİÜ˜YÙHXØÙ\ÜÈœ˜[Y]ÛÜšË‚‹H[™ÚØ]ÛÛ\™\ÚH”TH8 $ÍNÈ]™[HY[š˜YH[Z[ˆ]Ø[X[™ÈÙZ[X˜[™Ë‚‹H[\›ÜÙ\Ø[ˆÚØ[H\˜[™ÚØ]ÈYZÈY[™İ[™ÙØZš[HÙHÙ\™\‹‚‹H[\›]ZØH˜Z\ØH[™Û™\ÚXKš[™ÚØ\Ë[ˆYZÈY[Y\›ZØ[ˆ^š[ˆZÜÙ\ÈÙ[\Z[Z[\[˜[‹‚‚ˆÈÈ›Ü›X][ˆÛÛ\]Xš[]\Â‚‹H›Ü›X]\œÚ\ˆ
-Š–”TH]™[ˆÈœ\X
-Š‹Y[XZØZH[\[Y[\ÚH\İ™X[H”THËŒMK‚‹HÛÛ\]Xš[]\Îˆ\˜[™ÚØ][™›ÚYTHŒÈ
-[™›ÚY‹Œ
-H]]HXšZ˜\K‚‹HP’HX[™È\ÚX\Ø[ˆ\›M]X\›YXXšK]ØX[ˆ—Í‚‹H˜]]™H[™Ú[™HX˜[™İ[ˆ[™Ø[ˆQ“Ò’UYØ\ˆYZÈ™\™Ø[[™ÈYH’U‹ÔÔÑLÈ[[šH[[™È[ZÈ\˜[™ÚØ]T“H[™›ÚY‚‹H[™›ÚYYZÈY[YYXZØ[ˆ[X˜XØHœ\X˜]ØX[‹ˆ\œÚ\\›HXZØHY[[ZH\ZØ\ÚHœ\H\˜Ú]™H]]H›ÙÜ˜[HZ[ˆX[™ÈY[™Zİ[™È›Ü›X]”TK‚‚ˆÈÈZ[TÈY[[ZHÚ]XˆXİ[ÛœÂ‚ŒKˆX]™\ÜÚ]ÜHÚ]Xˆ˜\K‚Œ‹ˆ[™ÙØZÙ[\Z\ÚH›Û\ˆ›ŞYZÈ[šHÙH™\ÜÚ]ÜH
-š[HÙ][™ÜË™Ü˜YKšİØ›Û\ˆ\[ˆ›Û\ˆ™Ú]X˜\\È™\˜YHH›Ûİ™\ÜÚ]ÜJK‚ŒËˆZØHXˆ
-ŠXİ[ÛœÊŠˆYH™\ÜÚ]ÜK‚ˆ[ZÛÜšÙ›İÈ
-ŠZ[[™›ÚYTÊŠ‹[H˜[[šØ[ˆ
-Š”[ˆÛÜšÙ›İÊŠ‹ˆÛÜšÙ›İÈYØH™\š˜[[ˆİÛX]\ÈØX]YH\ÚÙHœ˜[˜ÚXZ[˜]]HX\İ\˜‚KˆÙ][ZÙ[\ØZKZØH\Ú[[ˆ[ˆ[™Z\Y˜Xİ
-Š–œ\P\˜Ú]™KYXYËX\ÊŠ‹ˆH[[[XH\™\]\YXYË˜\Ø‚‚ˆÈÈZ[ÚØ[‚”\œŞX\˜][ˆ‘ÈMË[™›ÚYÑÈ]›Ü›HÍK[™›ÚY‘ÈËŒ‹ŒLÎLNÓXZÙHËŒŒ‹ŒX[ˆÜ˜YHK‚‚˜˜\Ú™Ü˜YH\ÜÙ[X›QXYÂ˜‚TÈXYÈXX]H\ØZ[Ûİ]]ËØ\ËÙXYËØ\YXYË˜\Ø‚‚ˆÈÈØ]][ˆ[™Ùİ[˜X[‚‚‹HØX]Y[XX]\œÚ\[Zš[H[‹Ø]]H›Û\‹[ZØ[ˆ˜[XHœ\X[Z]™[ÛÛ\™\ÚK[HÚ[\[ˆÚØ\ÚHİ]]H[Z[ZÚİ[Y[ˆ[™›ÚY‚‹HØX]Y[™ÙZÜİ˜ZË[Z\œÚ\[ˆ›Û\ˆZX[‹ˆİZİ\ˆ›Û\ˆH[[H\œÚ\ZØ[ˆ\\Z[šØ[ˆØX]YZÜÜÜ‹‚‹H]™[ÛÛ\™\ÚHX[™ÈXšZ[™ÙÚH\]Y[Y\›ZØ[ˆØZİH[ˆY[[ÜšHXšZ˜[XZËˆYH[™Ø[ˆSH\˜˜]\Ë][ZH\šH]™[H]]H‹‚‹HX]\œÚ\\šHš[HX[™ÈØ[]H\˜Ø^XH[ˆ\İZØ[ˆ\œÙYXHX[™ÈÛÜÛÛ™ÈX[™ÈİZİ\[ZÈ›ÜÙ\ÈÙ[Y[\˜HÙ\H\Ú[ZÜİ˜ZÜÚK‚‚ˆÈÈİ[X™\ˆ[ˆ\Ù[œÚB‚˜œ\K˜ÜXœ\K˜ÜXœ\Kš[ˆÓÔRS‘Ø\Ù\ZØ[ˆ\šHœ\MÌMKš\
-”THËŒMKX]XZÛ™^JKˆ[X™\š]ZX[ˆ\Ù[œÚH\İ™X[H\Ù\ZØ[ˆH\ÜÜ˜ËÛXZ[‹ØÜĞÓÔRS‘Ø[ˆXY\ˆÛİ\˜ÙKˆÛÙH[™›ÚYYH›ŞYZÈ[šHY\\ZØ[ˆ\\Ø[ˆ[\›]ZØH[ˆ[YÜ˜\ÚH“’K‚
+Warning: ff was declared with const; use let for reassignable variables.
+# Zpaq Archive Android
+
+Aplikasi Android minimalis untuk membuat dan mengekstrak arsip **ZPAQ (.zpaq)** menggunakan source engine ZPAQ 7.15 dari arsip `zpaq715.zip` yang disediakan.
+
+## Fitur
+
+- Membuat arsip `.zpaq` dari beberapa file sekaligus.
+- Membuat arsip dari satu folder beserta struktur subfolder-nya.
+- Mengekstrak arsip ke folder pilihan melalui Android Storage Access Framework.
+- Tingkat kompresi ZPAQ 0â€“5; level 1 menjadi pilihan awal yang seimbang.
+- Pemrosesan lokal di perangkat; tidak mengunggah file ke server.
+- Antarmuka Bahasa Indonesia, ringkas, dan tidak memerlukan izin akses seluruh penyimpanan.
+
+## Format dan kompatibilitas
+
+- Format arsip: **ZPAQ level 2 / `.zpaq`**, memakai implementasi upstream ZPAQ 7.15.
+- Kompatibilitas: perangkat Android API 23 (Android 6.0) atau lebih baru.
+- ABI yang disiapkan: `arm64-v8a`, `armeabi-v7a`, dan `x86_64`.
+- Native engine dibangun dengan `-DNOJIT` agar tidak bergantung pada JIT x86/SSE2; hal ini penting untuk perangkat ARM Android.
+- Android tidak menyediakan pembaca `.zpaq` bawaan. Arsip perlu dibuka melalui aplikasi Zpaq Archive atau program lain yang mendukung format ZPAQ.
+
+## Build APK melalui GitHub Actions
+
+1. Buat repository GitHub baru.
+2. Unggah seluruh isi folder proyek ini ke repository (file `settings.gradle.kts`, folder `app`, dan folder `.github` harus berada di root repository).
+3. Buka tab **Actions** pada repository.
+4. Pilih workflow **Build Android APK**, lalu jalankan **Run workflow**. Workflow juga berjalan otomatis saat ada push ke branch `main` atau `master`.
+5. Setelah selesai, buka hasil run dan unduh artifact **ZpaqArchive-debug-apk**. Di dalamnya terdapat `app-debug.apk`.
+
+## Build lokal
+
+Persyaratan: JDK 17, Android SDK Platform 35, Android NDK `27.2.12479018`, CMake `3.22.1`, dan Gradle 8.9.
+
+```bash
+gradle assembleDebug
+```
+
+APK debug dibuat di `app/build/outputs/apk/debug/app-debug.apk`.
+
+## Catatan penggunaan
+
+- Saat membuat arsip, pilih file dan/atau folder, tentukan nama `.zpaq`, pilih level kompresi, lalu simpan lokasi output di pemilih dokumen Android.
+- Saat mengekstrak, pilih arsip dan folder tujuan. Struktur folder di dalam arsip akan dipertahankan saat diekspor.
+- Level kompresi yang lebih tinggi dapat memerlukan waktu dan memori lebih banyak. Pada HP dengan RAM terbatas, mulai dari level 1 atau 2.
+- Buat arsip dari file yang kamu percaya dan pastikan tersedia ruang kosong yang cukup untuk proses sementara serta hasil ekstraksi.
+
+## Sumber dan lisensi
+
+`zpaq.cpp`, `libzpaq.cpp`, `libzpaq.h`, dan `COPYING` disertakan dari `zpaq715.zip` (ZPAQ 7.15, Matt Mahoney). Pemberitahuan lisensi upstream disertakan di `app/src/main/cpp/COPYING` dan header source. Kode Android pada proyek ini merupakan lapisan antarmuka dan integrasi JNI.

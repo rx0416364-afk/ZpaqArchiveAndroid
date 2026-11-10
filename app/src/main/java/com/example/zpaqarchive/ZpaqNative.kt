@@ -1,1 +1,10 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëXÚØYÙHÛÛK™^[\Kœ\X\˜Ú]™B‚š[\›˜[Øš™Xİœ\S˜]]™HÂˆ[š]ÂˆŞ\İ[K›ØYXœ˜\Jœ\Y[™Ú[™HŠBˆB‚ˆ^\›˜[[ˆ[“˜]]™J\™ÜÎˆ\œ˜^Oİš[™Ï‹ÛÜšÚ[™Ñ\ˆİš[™ËÙÔ]ˆİš[™ÊNˆ[ŸB
+Warning: ff was declared with const; use let for reassignable variables.
+package com.example.zpaqarchive
+
+internal object ZpaqNative {
+    init {
+        System.loadLibrary("zpaqengine")
+    }
+
+    external fun runNative(args: Array<String>, workingDir: String, logPath: String): Int
+}

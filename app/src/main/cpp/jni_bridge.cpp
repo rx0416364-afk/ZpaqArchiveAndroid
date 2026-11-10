@@ -1,52 +1,107 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëÚ[˜ÛYH›šKš‚ˆÚ[˜ÛYHİš[™Ï‚ˆÚ[˜ÛYH™XİÜ‚ˆÚ[˜ÛYHÜİ[Ï‚ˆÚ[˜ÛYHÜİX‚ˆÚ[˜ÛYH[š\İš‚ˆÚ[˜ÛYH˜Ûš‚‚‹ËÈœ\K˜Ü\ÈÛÛ\[YÚ]XZ[^œ\WÛXZ[ˆHÓXZÙK‚™^\›ˆ[œ\WÛXZ[Š[\™ØËÛÛœİÚ\ŠŠˆ\™İŠNÂ‚™^\›ˆÈˆ“’QVÔ•š[“’PĞS’˜]˜WØÛÛWÙ^[\WŞœ\X\˜Ú]™WÖœ\S˜]]™WÜ[“˜]]™Jˆ“’Q[Šˆ[‹ˆ›Øš™XİÊˆ^ˆ
-‹Ëˆ›Øš™Xİ\œ˜^H˜]˜P\™ÜËˆœİš[™È˜]˜UÛÜšÚ[™Ñ\‹ˆœİš[™È˜]˜SÙÔ]
-HÂ‚ˆYˆ
-˜]˜P\™ÜÈOH[ˆ˜]˜UÛÜšÚ[™Ñ\ˆOH[ˆ˜]˜SÙÔ]OH[ŠHÂˆ™]\›ˆLÂˆB‚ˆÛÛœİÚ\ŠˆİÙÚ\œÈH[‹O‘Ù]İš[™ÕUÚ\œÊ˜]˜UÛÜšÚ[™Ñ\‹[ŠNÂˆÛÛœİÚ\ŠˆÙĞÚ\œÈH[‹O‘Ù]İš[™ÕUÚ\œÊ˜]˜SÙÔ][ŠNÂˆYˆ
-İÙÚ\œÈOH[ˆÙĞÚ\œÈOH[ŠHÂˆYˆ
-İÙÚ\œÊH[‹O”™[X\ÙTİš[™ÕUÚ\œÊ˜]˜UÛÜšÚ[™Ñ\‹İÙÚ\œÊNÂˆYˆ
-ÙĞÚ\œÊH[‹O”™[X\ÙTİš[™ÕUÚ\œÊ˜]˜SÙÔ]ÙĞÚ\œÊNÂˆ™]\›ˆLNÂˆB‚ˆİœİš[™ÈÛÜšÚ[™Ñ\ŠİÙÚ\œÊNÂˆİœİš[™ÈÙÔ]
-ÙĞÚ\œÊNÂˆ[‹O”™[X\ÙTİš[™ÕUÚ\œÊ˜]˜UÛÜšÚ[™Ñ\‹İÙÚ\œÊNÂˆ[‹O”™[X\ÙTİš[™ÕUÚ\œÊ˜]˜SÙÔ]ÙĞÚ\œÊNÂ‚ˆÛÛœİœÚ^™HÛİ[H[‹O‘Ù]\œ˜^S[™İ
-˜]˜P\™ÜÊNÂˆİ™XİÜİœİš[™Ïˆ˜[Y\ÎÂˆİ™XİÜÛÛœİÚ\Šˆ\™İÂˆ˜[Y\Ëœ™\Ù\™Jİ]X×ØØ\İÚ^™WİŠÛİ[
-JNÂˆ\™İ‹œ™\Ù\™Jİ]X×ØØ\İÚ^™WİŠÛİ[
-JNÂ‚ˆ›Üˆ
-œÚ^™HHHÈHÛİ[È
-ÊÚJHÂˆ]]È][HHİ]X×ØØ\İœİš[™ÏŠ[‹O‘Ù]Øš™Xİ\œ˜^Q[[Y[
-˜]˜P\™ÜËJJNÂˆYˆ
-][HOH[ŠH™]\›ˆLÂˆÛÛœİÚ\ŠˆÚ\œÈH[‹O‘Ù]İš[™ÕUÚ\œÊ][K[ŠNÂˆYˆ
-Ú\œÈOH[ŠHÂˆ[‹O‘[]SØØ[™YŠ][JNÂˆ™]\›ˆLÎÂˆBˆ˜[Y\Ë™[\XÙWØ˜XÚÊÚ\œÊNÂˆ[‹O”™[X\ÙTİš[™ÕUÚ\œÊ][KÚ\œÊNÂˆ[‹O‘[]SØØ[™YŠ][JNÂˆBˆ›Üˆ
-ÛÛœİ]]Éˆ˜[YHˆ˜[Y\ÊH\™İ‹œ\ÚØ˜XÚÊ˜[YK˜×ÜİŠ
-JNÂ‚ˆÛÛœİ[Ø]™YİÙHÜ[Š‹ˆ‹×Ô‘Ó“JNÂˆÛÛœİ[Ø]™Yİ]H\
-ÕÕUÑ’SS“ÊNÂˆÛÛœİ[Ø]™Y\œˆH\
-ÕT”—Ñ’SS“ÊNÂˆYˆ
-Ø]™YİÙØ]™Yİ]Ø]™Y\œˆ
-HÂˆYˆ
-Ø]™YİÙH
-HÛÜÙJØ]™YİÙ
-NÂˆYˆ
-Ø]™Yİ]H
-HÛÜÙJØ]™Yİ]
-NÂˆYˆ
-Ø]™Y\œˆH
-HÛÜÙJØ]™Y\œŠNÂˆ™]\›ˆMÂˆB‚ˆ’SJˆÙÑš[HH›Ü[ŠÙÔ]˜×ÜİŠ
-KÈŠNÂˆYˆ
-ÙÑš[HOH[ŠHÂˆÛÜÙJØ]™YİÙ
-NÈÛÜÙJØ]™Yİ]
-NÈÛÜÙJØ]™Y\œŠNÂˆ™]\›ˆMNÂˆB‚ˆ™›\Ú
-İİ]
-NÂˆ™›\Ú
-İ\œŠNÂˆÛÛœİ[ÙÑ™Hš[[›ÊÙÑš[JNÂˆ\ŠÙÑ™ÕÕUÑ’SS“ÊNÂˆ\ŠÙÑ™ÕT”—Ñ’SS“ÊNÂˆÙ]˜YŠİİ][‹ÒSÓ‘‹
-NÂˆÙ]˜YŠİ\œ‹[‹ÒSÓ‘‹
-NÂ‚ˆ[™\İ[HMÂˆYˆ
-Ú\ŠÛÜšÚ[™Ñ\‹˜×ÜİŠ
-JHOH
-HÂˆHÂˆ™\İ[Hœ\WÛXZ[Šİ]X×ØØ\İ[Š\™İ‹œÚ^™J
-JK\™İ‹™]J
-JNÂˆHØ]Ú
-‹‹ŠHÂˆœš[Šİ\œ‹–”THØYØ[Ø\™[˜HÙ\Ø[Z[ˆ˜]]™HX[™ÈYZÈ\[™Ø[šK—ˆŠNÂˆ™\İ[HMÎÂˆBˆH[ÙHÂˆœš[Šİ\œ‹•YZÈ\]Y[XZØH\™ZİÜšHÙ\š˜H\ZØ\ÚK—ˆŠNÂˆB‚ˆ™›\Ú
-İİ]
-NÂˆ™›\Ú
-İ\œŠNÂˆœÙYZÊÙÑš[KÑQR×ÑS‘
-NÂˆ˜ÛÜÙJÙÑš[JNÂ‚ˆ\ŠØ]™Yİ]ÕÕUÑ’SS“ÊNÂˆ\ŠØ]™Y\œ‹ÕT”—Ñ’SS“ÊNÂˆÛÜÙJØ]™Yİ]
-NÂˆÛÜÙJØ]™Y\œŠNÂˆ˜Ú\ŠØ]™YİÙ
-NÂˆÛÜÙJØ]™YİÙ
-NÂ‚ˆ™]\›ˆ™\İ[ÂŸB
+Warning: ff was declared with const; use let for reassignable variables.
+#include <jni.h>
+#include <string>
+#include <vector>
+#include <cstdio>
+#include <cstdlib>
+#include <unistd.h>
+#include <fcntl.h>
+
+// zpaq.cpp is compiled with main=zpaq_main by CMake.
+extern int zpaq_main(int argc, const char** argv);
+
+extern "C" JNIEXPORT jint JNICALL
+Java_com_example_zpaqarchive_ZpaqNative_runNative(
+        JNIEnv* env,
+        jobject /* thiz */,
+        jobjectArray javaArgs,
+        jstring javaWorkingDir,
+        jstring javaLogPath) {
+
+    if (javaArgs == nullptr || javaWorkingDir == nullptr || javaLogPath == nullptr) {
+        return 90;
+    }
+
+    const char* cwdChars = env->GetStringUTFChars(javaWorkingDir, nullptr);
+    const char* logChars = env->GetStringUTFChars(javaLogPath, nullptr);
+    if (cwdChars == nullptr || logChars == nullptr) {
+        if (cwdChars) env->ReleaseStringUTFChars(javaWorkingDir, cwdChars);
+        if (logChars) env->ReleaseStringUTFChars(javaLogPath, logChars);
+        return 91;
+    }
+
+    std::string workingDir(cwdChars);
+    std::string logPath(logChars);
+    env->ReleaseStringUTFChars(javaWorkingDir, cwdChars);
+    env->ReleaseStringUTFChars(javaLogPath, logChars);
+
+    const jsize count = env->GetArrayLength(javaArgs);
+    std::vector<std::string> values;
+    std::vector<const char*> argv;
+    values.reserve(static_cast<size_t>(count));
+    argv.reserve(static_cast<size_t>(count));
+
+    for (jsize i = 0; i < count; ++i) {
+        auto item = static_cast<jstring>(env->GetObjectArrayElement(javaArgs, i));
+        if (item == nullptr) return 92;
+        const char* chars = env->GetStringUTFChars(item, nullptr);
+        if (chars == nullptr) {
+            env->DeleteLocalRef(item);
+            return 93;
+        }
+        values.emplace_back(chars);
+        env->ReleaseStringUTFChars(item, chars);
+        env->DeleteLocalRef(item);
+    }
+    for (const auto& value : values) argv.push_back(value.c_str());
+
+    const int savedCwd = open(".", O_RDONLY);
+    const int savedOut = dup(STDOUT_FILENO);
+    const int savedErr = dup(STDERR_FILENO);
+    if (savedCwd < 0 || savedOut < 0 || savedErr < 0) {
+        if (savedCwd >= 0) close(savedCwd);
+        if (savedOut >= 0) close(savedOut);
+        if (savedErr >= 0) close(savedErr);
+        return 94;
+    }
+
+    FILE* logFile = fopen(logPath.c_str(), "w");
+    if (logFile == nullptr) {
+        close(savedCwd); close(savedOut); close(savedErr);
+        return 95;
+    }
+
+    fflush(stdout);
+    fflush(stderr);
+    const int logFd = fileno(logFile);
+    dup2(logFd, STDOUT_FILENO);
+    dup2(logFd, STDERR_FILENO);
+    setvbuf(stdout, nullptr, _IONBF, 0);
+    setvbuf(stderr, nullptr, _IONBF, 0);
+
+    int result = 96;
+    if (chdir(workingDir.c_str()) == 0) {
+        try {
+            result = zpaq_main(static_cast<int>(argv.size()), argv.data());
+        } catch (...) {
+            fprintf(stderr, "ZPAQ gagal karena kesalahan native yang tidak tertangani.\n");
+            result = 97;
+        }
+    } else {
+        fprintf(stderr, "Tidak dapat membuka direktori kerja aplikasi.\n");
+    }
+
+    fflush(stdout);
+    fflush(stderr);
+    fseek(logFile, 0, SEEK_END);
+    fclose(logFile);
+
+    dup2(savedOut, STDOUT_FILENO);
+    dup2(savedErr, STDERR_FILENO);
+    close(savedOut);
+    close(savedErr);
+    fchdir(savedCwd);
+    close(savedCwd);
+
+    return result;
+}

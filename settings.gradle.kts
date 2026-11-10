@@ -1,10 +1,17 @@
-YªçŠx³±×œ•ªŞw­…Ê'²Û¬zW­~Šëy«,Š	ÚnW¯j¸šnW¬YªçŠxÇ¬uç%j·Â+ar‰ì¶ë•ë_¢ºŞjË"‚v›•ëÚ®&›•ëYÚ[“X[˜YÙ[Y[Âˆ™\ÜÚ]ÜšY\ÈÂˆÛÛÙÛJ
-BˆX]™[Ù[˜[
-
-BˆÜ˜YTYÚ[”Ü[
-
-BˆBŸB™\[™[˜ŞT™\ÛÛ][Û“X[˜YÙ[Y[Âˆ™\ÜÚ]ÜšY\Ó[ÙKœÙ]
-™\ÜÚ]ÜšY\Ó[ÙK‘RSÓÓ—Ô“Ò‘PÕÔ‘TÔÊBˆ™\ÜÚ]ÜšY\ÈÂˆÛÛÙÛJ
-BˆX]™[Ù[˜[
-
-BˆBŸBœ›Ûİ›Ú™Xİ›˜[YHH–œ\P\˜Ú]™P[™›ÚY‚š[˜ÛYJ˜\ŠB
+Warning: ff was declared with const; use let for reassignable variables.
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "ZpaqArchiveAndroid"
+include(":app")
